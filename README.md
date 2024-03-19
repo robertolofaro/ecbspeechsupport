@@ -28,4 +28,8 @@ As part of the weekly updates, future ECBPodcast episodes will be added here, an
 
 # Disclosure
 
-I have no relationship whatsoever with the ECB- simply, for my own publication purposes on https://robertolofaro.com, as I had previously 20 years of experience in banking across Europe mainly on the "number crunching" (management reporting, decision support, business intelligence), organizational development (systems&processes) and IT services/project management, decided since 2019 to share what I was anyway reading from public sources, in a way more accessible that page-by-page.
+I have no relationship whatsoever with the ECB..
+
+Simply, I had previously 20 years of experience in banking across Europe mainly on the "number crunching" (management reporting, decision support, business intelligence), organizational development (systems&processes) and IT services/project management.
+
+For my own publication purposes on https://robertolofaro.com decided to keep being informed, and in 2019 decided to share what I was anyway reading from public sources, in a way more accessible than page-by-page.

@@ -25,6 +25,8 @@ This repository has been initially loaded on 2024-03-19 with the automated trans
 
 As part of the weekly updates, future ECBPodcast episodes will be added here, and also the underlying database from 2004-03-25 will allow searching also the ECBPodcast content not just at the outline level, but also as any other text.
 
+From 2024-03-25, as an ECB Blog post contained also an audio component, this repository will contain also the audio transcripts for ECB Blog (and others; whenever an audio is available and accessible)
+
 
 # Disclosure
 

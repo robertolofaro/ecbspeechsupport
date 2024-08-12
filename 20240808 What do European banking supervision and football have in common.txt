@@ -1,0 +1,105 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+Just about all of us have a bank account to manage our money, to receive our paychecks or pay our rent. But how can we be sure that our money is in a safe bank? In 2023, we saw what happens when banks fail. The US-based Silicon Valley bank crisis and subsequent problems at Credit Suisse showed how crises can spread from one country to another, in this case from the US to Switzerland. 
+
+Euro area banks, however, stayed strong and showed resilience during this crisis. But who makes sure that Euro area banks are safe and properly manage their risks? You're listening to the ECB podcast, bringing you insights into the world of economics and central banking. My name is Stefania Secola. 
+
+Today, I'm very happy to welcome back Elizabeth McCall, Supervisory Board member. She joins us today as part of our two-part summer school series on banking supervision. Elizabeth, welcome back to the podcast.
+
+It's a pleasure to be here. Thank you. This year, we're going to celebrate 10 years since the setup of banking supervision at the European level. 
+
+And you've been around for five of those years, so half the existence of European banking supervision. Congratulations. And I'm still standing.
+
+So today, with our summer school format, we'll be going a bit back to the basics, okay? Perhaps you can start by telling our listeners, what does European banking supervision do? Why was it created at European level? And most importantly, how does it impact people? It would be a pleasure. I am an enormous believer in and fan of banking supervision, especially here in Europe. And I guess the way to think about it is, most people have a bank account. 
+
+And they fully rightly expect that when they put their money into that bank, that their funds are going to remain safe. And you just talked a little bit about contagion of markets from one market to another, and you talked about the financial crisis. Well, after the great financial crisis, a number of banks came under a lot of pressure, meaning that bank accounts could be at risk, were at risk. 
+
+And even some of the banks failed during the great financial crisis. And so they had to be bailed out by governments as a result of that failure in order to ensure that the bank funds remained sacrosanct. So that impacts people's individual livelihoods. 
+
+They can't really go forward in an economically sound way if their funds are threatened more than once, or it happens in another market where they lose confidence in the overall market. So to prevent a failure from happening, or let me say, to minimize the risk of a failure happening, Europe created the European Central Bank Single Supervisory Mechanism, fondly known as the SSM. And what that is, is a system of European banking supervisors that have come together under a single platform to bring together all of the supervision in all of the European markets. 
+
+This is important because we are delivering a consistent set of rules by which all of the countries are abiding to ensure that people's bank accounts remain safe at the end of the day. So we're in the Euro championships right now, and it's causing a lot of excitement here in Frankfurt, but also all across Europe. And with football, the game is played in any one of our markets, but the rules are the same, no matter which country that game is being played in. 
+
+So you can think of banking supervision in a similar way. The idea, following on the Great Financial Crisis, was to have a single set of rules consistently applied so that we could first ensure that bank accounts remain safe, and that people could be confident about that. I always say that banking supervision is extremely important. 
+
+Now, we're not doctors, we're not saving people's lives, but we're saving people's life savings. And that's very important. Amazing. 
+
+Yeah, I like the metaphor very, very much. And indeed, so full harmonization is really the name of the game, not just the rules, but also how it is applied. Exactly. 
+
+So we know that the ECB works to keep prices stable. But how is European banking supervision connected to the ECB? Can you give us more on this? Yes. So we have two sides of the house, so to speak. 
+
+One side of the house has the very important mission of ensuring price stability and delivering on the monetary policy for the euro area. On the other side of the house, we take care of banking supervision. So there is a Chinese wall, let's say, between those two sides of the houses, but they're very complementary to each other. 
+
+ECB banking supervision and the national supervisory authorities in each of the countries work together as part of the single supervisory mechanism to keep banks safe. And making sure that banks manage their risks well so that their deposits are safe in those banks means that the bank continues to stay in business. And that itself contributes to overall stability of the financial system. 
+
+And that's important. Absolutely. Absolutely.
+
+And you said before, no, that the work of supervising Europe's banks is closely connected to our bank accounts. But as we are going into 10 years of European banking supervision, can you tell us what has been achieved? We started back in 2014. You know, the birth of the SSM occurred at a time of crisis when there were real concerns about confidence in the banking system.
+
+Citizens were worried whether or not their bank accounts would be safe. And so the single supervisory mechanism was created at that time to bring together a single rulebook, a single set of rules that all of the banks in Europe would operate under. And that was a very critical moment because the European banking system is so interconnected between the countries. 
+
+So having a single set of rules to ensure that the accounts are kept safe in the same manner creates itself confidence in the banking system. So in a very short period of time, I would say one of the largest banking supervisors was created. And I think it's also important to say what we are not.
+
+We are not the regulators. We are not designing what the rules are. We look to Brussels for that.
+
+We look to the European Banking Authority for that. And then we follow through on ensuring that the banks are abiding by those rules. And so what had to be created was a system to conduct banking supervision. 
+
+And you might ask, okay, so what is banking supervision? Well, it means that we are keeping a very close eye on the key processes in a bank to ensure that at the end of the day, the bank accounts remain safe. We do things like conduct inspections. So we will go on site and look at how a bank is making a loan. 
+
+We will look at what is the bank's risk management system look like. Do they have strong governance in place? People who are leading the institution that are expert and competent and abiding by the rules. We also conduct stress tests, which means we'll look at a scenario, you know, maybe a plausible scenario of adverse conditions that could occur and say, how is the bank performing? Is it safe and sound in that adverse scenario? Can it weather a storm? And so there are a wide variety of tools that we use to be able to conduct the overall supervision. 
+
+We have delivered guides out to the marketplace so that banks can understand what those rules are. And these guides set forth the expectations that the supervisors have. What we really look to do is to make sure that the banks are well aware of what constitutes sound practices and what our expectations are so that when we go in and examine them and inspect them and we decide what level of capital they have to have to make sure they have the funds to keep the bank's deposits safe, that they in the first instance are following through on that.
+
+I would say 10 years in, our banks are resilient. They're in generally very good shape. And this itself is an enormous achievement for Europe. 
+
+In 10 short years, we have recapitalized the banking system. We've recreated confidence in the banking system. And even in recent times, we've seen the fruits of those labors, meaning this has not been these last five years that I've been here, a period without its own surprises. 
+
+We've lived through a pandemic. We have a war, very sadly, very unfortunately, on European soil with the Russian aggression in the Ukraine. We had disruptions to supply chains, disruptions to the delivery of energy. 
+
+And we've had rising interest rate environments and inflation, putting pressure on households and businesses. And through all of this, the banking system in Europe has remained quite resilient. So I always say this, and I can't say it enough. 
+
+Everyone should be so proud of the SSM and the delivery of the banking union and the delivery of tools and processes and requirements and consistent requirements that have withstood the test of time in the recent five years. Excellent. So far, so good. 
+
+So we've looked now back and reflected on the past 10 years. But I'd like to look to the future. What does the road ahead look like? And what are your challenges? It's an overused word, but I'll use it. 
+
+And that is, these are uncertain times. And I know everyone's tired of hearing that, probably. But I just said that the banking system is resilient and is strong. 
+
+And that's true. And that they have been resilient through some really tough challenges. But having said that, it's a moment when there is so much change afoot. 
+
+Change is the only constant I think we can depend on as we look forward. We're living in a time when generative AI has appeared on the scene. And so the way that processes are being done, even in the banks, is changing before our very eyes. 
+
+And we have to ensure that we understand what those risks are, and that they don't present outsized risks to the banking sector. We are seeing a whole change in the structure of banking with the entrance of fintechs, with big techs providing other banking services with a disintermediation of some of the banking services, payment processes happening on your phone, connected to the banks. But these are all things that have to be risk managed in an appropriate way. 
+
+The rate of change in technology overall is something that always gives me the feeling of needing to be running to catch up and to make sure that we are at least abreast of the issues, if not ahead of it. And so this means that we have challenges with how we deliver tools to our examiners and how they will be able to use those tools. So it's a really incredibly changing marketplace. 
+
+And of course there are these geopolitical risks, not just Russia in the Ukraine, but of course concerns about Taiwan and China, concerns about the Middle East close by. Could there be a wider conflagration that occurs? We have elections taking place here in Europe, overseas in the U.S. that can have market impacts. We focus a lot on those things. 
+
+So we are looking ahead with a cautionary stance and making sure that we are equipping ourselves with the things that are needed to make sure that we can stay ahead of new risks. I think the way to think about it is we have to be agile. Yeah, agile, eyes wide open. 
+
+Exactly right. Thanks, Elizabeth. And you know, before we wrap up, we always have a question to ask all our guests on the podcast. 
+
+And that's for a hot tip linked to the topic we've been discussing today. Elizabeth, have you thought of something for our listeners? I have. I gave this a great deal of thought, actually, and I hope you like it. 
+
+There's a movie that I watch with my family around Christmas time. I try to watch it every year. It's called It's a Wonderful Life.
+
+And it's about the protagonist is George Bailey. And he's a man from a small town who runs what's called the Building and Loan Association, the Bailey Brothers Building and Loan Association. And it makes loans, small loans to promote homeownership, mortgages.
+
+And this is a movie that takes place before the Great Depression. And it's about bank examiners going into the bank and seeing that there might be some shortfalls and what those bank examiners do. So it's filled with economic lessons. 
+
+But there's one phrase in the movie, if you don't have a chance to watch it, please keep in mind this phrase. And it's near the end of the movie. And it is no man is a failure who has friends. 
+
+And that's said to George by his angel. And then his brother says, George, you are the richest man in town. And even the examiners contribute to that. 
+
+It's great. Thank you so much. So I think we will try and link this in the show notes for our listeners. 
+
+And this brings us to the end of this episode. So the first part of the Summer School on Banking Supervision ends here. I want to thank Elizabeth McCall, Supervisory Board Member, for joining us today in the conversation. 
+
+Thank you, Elizabeth. Thank you. Always a pleasure. 
+
+Thank you. For those of you looking to hear more about some of the topics we've discussed today, you can check out the show notes. You've been listening to the ECB podcast with Stefania Secola. 
+
+If you like what you've heard, please subscribe and leave us a review. And in the spirit of Europe, I'd like to end in Italian today and say, a presto. Until next time.
+
+Thanks for listening.
+
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)

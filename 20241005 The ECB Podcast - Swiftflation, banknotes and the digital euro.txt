@@ -1,0 +1,169 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+The ECB podcast just celebrated its fifth birthday. And what a ride it's been so far, bringing you insights into the world of economics and central banking. We've talked about many different topics here on the podcast.
+
+Inflation, banking supervision, banknotes, climate change and digital euro, just to mention a few. But today, in honour of our fifth anniversary, we thought we'd do something special and give you the chance to ask your questions directly. You're listening to the ECB podcast, bringing you insights into the world of economics and central banking.
+
+My name is Stefania Secola. In today's new Ask ECB edition of the ECB podcast, we brought some people on board to answer your questions. But before doing so, I want to thank you all for the very many questions you submitted from all over Europe.
+
+Of course, we won't be able to answer them all here today, but we will do our best to still answer your questions on social media or also in future podcast episodes. So stay tuned. But let's jump straight into some of the topics that you wanted to know more about.
+
+And let's start with Taylor Swift. Taylor Swift's era tour has taken Europe by storm this year. Sold out concert and sparkly outfits and people travelling across countries to see the singer-songwriter perform live.
+
+But what does this have to do with inflation? Our first question today comes from Rebecca in Germany. Hi, everyone. So my name is Rebecca from Germany.
+
+And I have recently heard that a tour by Taylor Swift can lead to an increase in inflation in the place where she's visiting. And I was wondering if that was true. Thank you.
+
+Bye bye. Thank you, Rebecca, for your question. We're very happy to receive a direct question with the voice of the people that is asking that.
+
+And today, Guido Walsvik, who works in monetary policy here at ECB, will answer your question. Guido, welcome to the podcast. Thank you, Stefania, for inviting me to the podcast.
+
+And thank you, Rebecca, for your interesting question. I've read that Taylor Swift is indeed a superstar. She has given more than 150 concerts throughout the world in one and a half year time.
+
+And she has been chosen as Time Person of the Year in 2023. So it's really a superstar we're talking about. And it's interesting to see what kind of effects her performances may have.
+
+One surprising effect that I came across was that her fans actually managed to produce a small earthquake in Scotland at the time of her concert. So your question luckily is on a subject that is a bit closer to my profession, the possible effect of her performances on inflation. And that has been labeled Swiftflation.
+
+Oh. Before answering that, let me just make sure that we are talking about the same thing. Let me just briefly recall what inflation is.
+
+Broadly speaking, it is how much prices rise compared to a year ago. So if something costed €100 a year ago, and now it costs €102, that means that inflation is 2%. So let's now see how the spending by the Swifties, by the fans of Taylor Swift, can affect inflation in a city, which was your question.
+
+First of all, the fans need to buy tickets. And these tickets are not specifically cheap. The price ranges from €200 to well above €1000.
+
+Moreover, fans probably will want to buy some merchandise as a souvenir of the event. Then there are those not living in the city where the concert is given, and they need accommodation. So they need to go to a hotel.
+
+And usually people stay for two or three days when there is a concert from Taylor Swift. And these hotel prices then increase. That is simply a matter of demand and supply.
+
+Demand rises, supply remains the same, so prices increase. Hotel rates have doubled or tripled in the cities where Taylor Swift performed. The concerts take place only in a few cities in a country.
+
+And that means that travel is needed for many fans that want to visit the concert. And that is travel within a country. But that's also travel abroad.
+
+From data on credit card transactions, we can, for instance, see that there has been more international travel by Americans who wanted to visit a concert of Taylor Swift in Europe. So it's even across oceans. Finally, the prices of food and beverage, especially around the area where the concert took place, rose.
+
+So if you take that all together, you can say, yes, there has been some kind of Swift inflation. However, it's good to keep in mind that these categories on which the Taylor Swift fans spend more just represent a fairly limited share of consumption. So for instance, hotel and restaurants, people on average spend just 5% of their total consumption on these goods.
+
+So there are high prices, but it's only for a small spending category. So the impact they have on the overall inflation measure is not so big. Correct. 
+
+That's fully correct. I mean, most people typically spend a large part of their income on things like housing, food, energy, these kind of things. And that remains the same.
+
+They are not affected by the concert by Taylor Swift. So overall, there is probably some effect on inflation in a city. Unfortunately, we do not have precise numbers for that because the data on inflation are collected at a national level, not at a city level.
+
+So if we look at inflation at the country level, there perhaps could be a small effect, especially in the smaller countries of the Euro area. The Statistical Office in Portugal mentioned the Taylor Swift concert as one factor contributing to the rise in national inflation from 2.3% in April to 3.8% in May when Taylor Swift gave two concerts in Lisbon. So the Taylor Swift concert may have given rise to some inflation in specific countries.
+
+If you are looking for bigger effects on the economy and on inflation, you have to turn to other major what has been labeled fun events. For instance, the Olympic Games that took place in Paris or the European Soccer Championships in Germany. Those may give rise to a bit more inflation, which has been labeled funflation.
+
+Also because they last longer. Now a concert is one night, but these events like the Olympics or the soccer, they last longer. So the impact is stronger, so to say.
+
+Exactly. No, that's exactly the case. And there's also a lot of travel around the events.
+
+So that has a probably a bigger impact. That's correct. Interesting.
+
+Interesting. And thank you so much, Guido. And while we are on the topic of monetary policy, we received another question.
+
+And this time is from Samuel, a 24-year-old student from Slovakia who now lives in Austria. Hi, Samuel. And if you're listening, thank you so much for your question.
+
+You asked us, your task is to watch for prices and keep inflation lower than 2%. What exactly do you do if one member state has inflation higher than 2%? Guido, what's your answer to Samuel? Thank you, Stefania. And thank you, Samuel, for your question on monetary policy, which gives me an opportunity to explain a bit what we are doing here at the ECB.
+
+To answer your question, it's good to first recall what is our goal. Because everything that we do and everything that we don't do is related to that goal. So we are here for achieving price stability, which has been defined as inflation of 2% for the euro area as a whole over the medium term.
+
+So you are right to say that we don't like inflation above 2%. But let me add that equally we dislike inflation below 2%. So we have what we call a symmetrical inflation target.
+
+It's quite normal for countries to have different inflation rates. And what is important is that we have a common monetary policy. So we set one set of interest rates for the entire euro area.
+
+These interest rates then transmit to the rates that banks charge to consumers and firms when they want to have a loan. And that then again affects the demand in the economy and the inflation rate. And that's how our monetary policy transmits to inflation.
+
+As our interest rate applies to the entire euro area, we cannot do much for one specific country if it has a high inflation rate and other countries do not. We only take action if the euro area inflation rate deviates from our 2% inflation target. Interesting.
+
+Thank you so much, Guido. And I hope Samuel got clearly his answer. Thank you so much.
+
+Thank you very much. We started with inflation, so monetary policy, but our listeners asked many other burning questions and a lot of them had to do with the digital euro. On this topic, I'd like to welcome Dominic from Croatia, asking what is the future of the ECB regarding CBDC? For those of us who are not familiar with this acronym, CBDC means Central Bank Digital Currency, which for the ECB means digital euro.
+
+And related to this, Julian asked, do you think that the digital euro will replace things like PayPal in the EU? To answer Dominic and Julian, we have here in the studio Erica Ricci, who works in the digital euro team. Erica, the floor is yours. Thank you.
+
+Thank you, Stefania. And thanks for having me on the podcast today. And thanks to Julian and Dominic for asking about the digital euro as well.
+
+I'm very happy to answer your questions here. Now, Dominic, you asked about the future of Central Bank Digital Currency, CBDC. For all our listeners, Stefania has explained what they are.
+
+So at the ECB, we're looking into creating a digital version of the euro. This would be a central bank digital currency designed for all of us to use in the euro area. Now, put simply, it would be like having a digital version of banknotes.
+
+It would let you make payments across the euro area, in stores, online, without any fees. Now, right now, we are preparing for the introduction of a digital euro. But the decision to actually issue it will happen only once there is a proper legislation in place.
+
+So the European Commission has proposed a legal framework for digital euro, which is currently being discussed by the legislators. And only once this framework is in place will the ECB be able to decide whether to issue a digital euro or not. So we need the law before any decisions can be made.
+
+Exactly. But we have been working on it because it's a long project. And we need to be prepared in case that comes.
+
+So since 2021, we are investigating, we have investigated what a digital euro could be like. We have looked into its design, ways to protect people's payments data and personal information when making payments, and also how to make payments offline, for example, when there is no internet connection. And right now, in this period, we are focusing on two main tasks, creating a rulebook and choosing service providers.
+
+What is the rulebook? So the digital euro rulebook is a single set of rules, standards and procedures that will make sure that digital euro payments work the same way, smoothly everywhere in the euro area. Okay, so that from country to country, people can pay the same way. Exactly.
+
+So it's really the basis. On the other hand, the second task we're focusing on is the selection of companies that will help us building the digital euro. Okay, so we don't do everything ourselves.
+
+So we have a whole set of experts, no? Exactly. We need to learn from the best. And this is a key step also to be ready in order to develop it in the future.
+
+Okay. But who are the people involved in the preparation of the digital euro? So you said before, not just ECB, there are the experts, but who else is involved? We are talking to lots of different people. Of course, we have stakeholders.
+
+We also talk to the market, but we also talk to people like you who might use the digital euro in the future. Through surveys, interviews and focus groups, we are making sure that we're listening to what people want and need across Europe. Okay.
+
+So we take into account basically what the citizens like Julian or Dominic have to say. Exactly. So also I invite you to stay tuned and visit our website to learn more because we'll publish there lots of information about it.
+
+Yeah. And maybe for our listeners in the show notes, you find the links that can help you figure out more about the digital euro. So will PayPal disappear in the EU, as Julian asks? Yeah, thank you, Julian, for your question.
+
+The digital euro is not meant to replace private payment options, but to give people more choice. Like we said, it will be like cash, so it will be free for basic use across the euro area and it will be accepted everywhere. Now, the European dimension is quite a fundamental one because right now our payment system relies a lot on companies outside Europe.
+
+Now, take a look at your bank card. Does it say Visa or MasterCard? Yes. There you go.
+
+Relying on non-European companies for essential payment services means that how Europeans make everyday payments could be heavily influenced by decisions made by companies and governance outside Europe. And this could reduce Europe's control over its own payment system and make it vulnerable to outside influences. Overall, the digital euro would level the playing field in payments in Europe.
+
+So it would exist alongside private options, offering just this digital public option that is backed by us, the European Central Bank. So it's not an exclusive move, it's an inclusive one, meaning on top of everything that's already available, you citizens or your area citizens would have this option on top. Absolutely.
+
+And banks and other intermediaries like post offices, for example, they will play an important role because they will be responsible for distributing the digital euro, possibly even via their own existing banking apps. So they will also have the chance to innovate and to offer more services that people might want around it. Okay.
+
+So it will bring lots of innovation around. Yes. It's about creating a fair and diverse payment system in Europe where people can choose what works best for them, like you said, whether it's using cash, the digital euro or private options.
+
+Thank you so much. I hope Dominic and Julian got their answers, the answers they wanted. And thank you so much, Erika.
+
+Thank you, Stefania. Our final question today comes from Petra, who lives in Germany. She asked us, when does the design competition for the new euro banknotes begin? Thank you, Petra, for this question.
+
+And today in studio, we have Sato Hiatanen from the banknotes team to answer your question. Sato, the floor is yours. Thank you, Stefania.
+
+And thank you, Petra, for your very good question. I'm indeed Sato from the banknotes team. I come from Helsinki, Finland.
+
+So the direct answer to your question, Petra, is 2025. We will launch the design contest in 2025. I can also give you a little bit more information about what we've been working on with the future euro banknotes.
+
+So it's the ECB's job to issue euro banknotes. We are in charge of that. It's our responsibility.
+
+And we are currently working on issuing a third series of euro banknotes in the future. This will still take some years. But so far, the governing council has decided on two themes that we have been working on with.
+
+The themes are European culture and rivers and birds. And in the course of this year, we've been working on developing a set of motives to best illustrate these two themes. Okay. 
+
+Well, what's the difference then for the people who maybe are not too familiar with this, the difference between themes and motives? So I can give you an example. I brought a 10 euro banknote here with me. Ah, and this is the current series, right? This is the current one. 
+
+Yes, indeed. And the theme for the current series, which is called the Europa series, is ages and styles. And if you look at the banknotes, the 10 euro I have here or any other, you can see that we have windows and doorways on the front side.
+
+So the theme is ages and styles and the motives is windows and doors. Indeed. In different styles from history.
+
+Okay. Excellent. Thank you.
+
+And maybe you can give us a bit more also about the process. How is this going to unfold over time? Yes. I'm going to say a few words about the future, but I think I should go back a little bit just to explain what we have done so far.
+
+Okay. Also, just to give some context. So at the end of last year, the governing council decided to move on with the two themes that I mentioned that are European culture and rivers and birds.
+
+And in the course of this year, we've had the pleasure of working with a really fantastic advisory group called the Motives Advisory Group. And they were tasked with proposing possible motives to illustrate these two themes. So we do not know yet what the motives will be like.
+
+The governing council will make this decision by the end of this year. And then the design contest will be based on this decision. And stay tuned on our website.
+
+We will publish everything, all the instructions, and all the key dates and everything on our website. So we will have to follow a certain process, of course. There are certain rules that the participants will have to fulfill or certain criteria.
+
+And all is going to be available on the website. Yes, indeed. Thank you so much, Sato.
+
+And to Petra and everyone who's interested in banknotes, you can find the links in the show notes to learn more. And by the way, did you know that you can look at some of our Eurobank notes? And if I'm not wrong, it's 100 and 200. And there are safety features in 3D on our website.
+
+You can also find the links here in our show notes on this. I'd like to thank everyone who asked questions. We received very many.
+
+And to my dear colleagues for answering them today. This brings us to the end of our first ever Ask ECB episode of the ECB podcast. It was really great to engage with all of you from all over Europe.
+
+And thanks for the good questions you ask. Actually, don't stop asking questions, please. We really love that.
+
+You've been listening to the ECB podcast with Stefania Sekola. If you like what you've heard, please subscribe and leave us a review. And in the spirit of Europe, I'd like to end in Croatian and say, Dovijenia! Until next time, thanks for listening.
+
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)

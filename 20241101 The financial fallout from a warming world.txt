@@ -1,0 +1,153 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+The impact of climate change and nature loss is becoming more obvious every day. In the daily news we often hear about record temperatures, wildfires, flooded businesses and homes, destroyed harvests. So we really see that it impacts all aspects of our lives, but also our livelihoods and the economy at large.
+
+And the impact might be even worse than we thought. You're listening to the ECB podcast, bringing you insights into the world of economics and central banking. My name is Stefania Secola.
+
+This time of year the COP takes place, so basically where world leaders discuss progress towards limiting climate change. For that reason, we are looking into climate change and nature degradation in this episode. How does it impact our economies and financial stability? And how are we at the ECB working to better account for it in our work? To do so, today in studio we have Frank Alderson and Livio Stracca.
+
+Frank is Vice Chair of the Supervisory Board and ECB Board Member, and Livio is Deputy Director General here at the ECB. And as we'll see later, he's also part of an international team leading the investigation on how climate change will impact our economies in the future. Welcome to both of you.
+
+Thank you. Thank you, Stefania. Thank you, Stefania. 
+
+Very good to be here. Frank, I want to start with a couple of questions to you to get a big picture. We know that climate change and nature degradation is impacting our economies.
+
+Can you tell us how this happens and what role do physical risks play? Well, climate change and nature loss and degradation affect how our economy functions. So the physical risks of a changing climate include more frequent and more extreme weather events, such as droughts and storms and dwindling ecosystems because of deforestation, for example. These may also be acute, as we call them, acute physical risks, such as increasingly severe natural disasters, floods, hurricanes or wildfires, or chronic risks, such as failing ecosystems.
+
+So to give you, you know, as concrete as possible an example, if I, okay, let's say I own a furniture making company. So more frequent forest fires, like those that we have seen this year in southern Europe, mean that the supply of wood may go down. And this will then negatively affect my business as wood becomes more expensive as a result.
+
+Of course, yeah. And if I have loans with a bank, these could then become harder for me to repay. To pay back, yeah, of course.
+
+So essentially, physical risks, like those from wildfires, but also floods and other natural disasters, can cause costly damage to people's homes and businesses, but also damage to public infrastructure. And when you say this costly damage, can you give us some concrete numbers, what it means exactly? Well, you know, to just give you some ideas. The recent floods in Central Europe caused, just over a few days, damage to the value of around 10 billion euro in Poland and in the Czech Republic.
+
+And, you know, if you think 10 billion euro, that is the equivalent of buying around 300,000 electrical, new electrical cars. To put that in perspective, that's more new cars than were sold in the Czech Republic last year. Wow.
+
+Now, in 2022, combined drought and heat events across the whole continent cost 40 billion in economic losses, 40 billion euro. And to help you better picture that, think of a stack of one euro coins representing 40 billion euros. And that stack would actually then reach a quarter of the way to the moon.
+
+The record summer, the record hot summer in 2022 has also been linked to between 60,000 and 70,000 premature deaths in Europe. Despite considerable investments in dedicated health plans to prevent just that. Now, think about it. 
+
+Some towns only have that many people, 60,000, 70,000. So it could mean a whole town dying due to the impact of the changing climate. We are already at that stage, no? So this was in 2022.
+
+And I speak here only about direct and immediate damages and losses. And we now know that the broader and longer term impact may be way bigger than we previously thought. Livio will tell you more about that later.
+
+Okay, so then let's stay tuned because Livio, later you will give us more on this. But physical risk clearly has a big impact on our economies and on people's lives. One way that people and businesses can protect themselves against the financial impact of physical risk is catastrophe insurance.
+
+And this type of insurance can protect people and businesses against the financial consequences of natural disasters such as earthquakes, floods and hurricanes, to mention a few. And think, for instance, of the floods that we just had, no, as you mentioned also, but also recently in Eastern and Central Europe, which caused lots of damage. Frank, how many people have this kind of insurance and why is it important? Well, while financial losses suffered by people and firms can be reduced by what we call catastrophe insurance, only about a quarter of climate-related catastrophe losses are presently insured in the European Union.
+
+And in some countries, so think of Italy, Bulgaria, Hungary, Romania, the figure is actually even less than 5%. Wow, so low. So as events like storms, etc., become more frequent, insurance will also become more expensive.
+
+Of course, yeah. And some insurers might actually no longer provide insurance for these kind of events. Or they might make this insurance conditional on certain mitigating measures.
+
+Like if there's a fire, it's clear that your insurance will of course only pay when you didn't start the fire yourself. Of course, yeah. So we can say people need insurance as far as possible.
+
+But we also need adaptation. Makes sense. So for instance, think of the floods here in Germany in the Ayrtel some years ago.
+
+It might at one point no longer make sense to keep rebuilding homes in the exact same high-risk flood-prone areas. And instead we may at some point need to rebuild in other areas that are less exposed to these physical risks. Of course.
+
+Now, all these natural disasters that we see happening, they should not come as a surprise as our planet gets warmer. And we therefore need to adapt, that's the key word, to adapt our activities to minimize their impact. What struck me in your answer just now is this a quarter or even 5% in some countries are insured.
+
+And this is very, very low. What does it mean for preparedness if disaster strikes? Well, essentially it means that we are not sufficiently well prepared. Let's think about what happens when natural disasters occur.
+
+Of course, first and foremost, it will lead to human tragedy. As lives are disrupted and people can get hurt or even die. Now, when it comes to the financial consequences, if people are insured, their insurance can step in and cover the costs of the damage.
+
+However, when people or businesses are not insured, as we have seen is the case for many, many cases, a governance may need to step in to provide relief or cover losses in the aftermath of a catastrophe. Now, this on its turn can of course weaken the financial position of these governments. And moreover, businesses and households will be slower to recover from the damage, meaning that they may also be slower to repay their debts to banks.
+
+And the lack of insurance can therefore also affect financial stability and the economy as a whole. So we need to adapt our activities. And to reduce the insurance coverage gap, as we call this, here at the ECB, together with the European Insurance and Occupational Pensions Authority, which is also here in Frankfurt, we are also investigating possible policy options.
+
+And actually, we are planning to publish further work on this soon. Okay. So physical risk impacts macroeconomic outcomes, such as GDP, but can also impact financial stability, as you just explained, which is critical for all of us.
+
+We as central bankers, for instance, need stable or at least predictable developments to take good decisions for monetary policy and in our role as banking supervisors. We need to carefully quantify the effects of climate change to incorporate them into what we call macroeconomic forecasts and also the financial stability monitoring. And to help us, I understand we have this so-called NGFS, so the Network for Greening the Financial System.
+
+Frank, can you tell us what this is and why we should pay attention? So the NGFS, the Central Banks and Supervisors Network for Greening the Financial System, brings together central banks and supervisors from across the world to work together to better understand the possible impacts of climate change. And it also carries out analytical work to support the transition to a sustainable future. The NGFS partnered with climate scientists and macroeconomists to design a set of scenarios that illustrate how our economy may look like with the climate crisis.
+
+So NGFS relies on science, basically, no? And I'm glad you mentioned that word because it's so important that we take science seriously. And we do this in all walks of life. And climate science is also precisely that, science.
+
+So these scenarios that we devised, or that the NGFS devised, allow us to get insights into different possible foreseeable futures. And at the European Central Bank we use these scenarios in our daily work. For instance, we use the scenarios to conduct climate stress tests.
+
+So seeing how resilient banks are to the climate and nature crises. But also to understand the impact of climate change on financial stability and its implications for our monetary policy. Thanks, Frank. 
+
+Turning to you, Livio. You work on macroprudential, a difficult name for many of us, and financial stability topics here at the ECB. And you're also part of, as I mentioned before, the NGFS, this international team that Frank just explained.
+
+So in your role, can you tell us what are your latest insights on the economic impact of climate change? So indeed I am involved very much in the NGFS. We have a workstream on climate scenarios. And in this workstream we have to compute the economic losses stemming from climate change.
+
+What we used to call the damage function. So let me ask you at the beginning. Say global temperature increased by around one degree Celsius.
+
+What do you think is the economic loss from that? So the decline in GDP coming from this higher temperature. Okay. I think I've read somewhere it's around 3%.
+
+I read this 3% in reports. Yeah. So many people think that, but that's actually not what science says.
+
+So recent science actually points to much bigger numbers. This is also what I taught in the past. But we look at the recent science very carefully, and the numbers used to be quite a bit higher.
+
+Probably at or above 10% for a one degree temperature. And there is even a recent estimate, 19%. 19%? Yeah. 
+
+So this is a big number. One has to consider that economic losses come both from chronic and acute physical risk. Shall I elaborate on those? Yes, please.
+
+So the chronic is what is sustained in the long term. So picture things that change. Agricultural productivity.
+
+Of course for our country agriculture is not a big share of the economy, but it is still a big share in many other countries. And think also of heat being detrimental to productivity in the construction sector, for example. So the sustained part is what we call the chronic.
+
+So the erosion of productivity coming from higher temperatures. But we also know there is a lot of science on it, that higher temperature leads to more frequent acute events. Phenomena like floods, drought, wildfires, and so on.
+
+These, of course, as we know, and you were pointing to this in the beginning, these can be very damaging phenomena. So it's the combination of chronic and also acute physical risk that leads to this big number. And also, when people tell me that these numbers are too large, I always respond that, of course, we have our own intuition, but the intuition also can be misleading.
+
+So our own intuition would tell us that the earth is flat, for example, and we know that it's not flat. So science is there to overcome our kind of limitation of our intuition, and that's why we need science. Absolutely, absolutely.
+
+Let's talk about the COP. For our listeners, it is underway this time of year, and it's going to take place first in Colombia for biodiversity, and then in Azerbaijan for climate change. This is an opportunity for world leaders to come together to measure progress and negotiate the best ways to address climate change.
+
+Frank, can you give us an idea of the messages you want to convey while these discussions are taking place? Now, we see a few areas that have received less attention and where more work needs to be done. So let me take you through some of them. Transition plans.
+
+They translate distant goals into tangible actions and allow us to plan accordingly. So, for example, picture an airline that wants to transition to net zero. To do so, it depends on the supply of sustainable aviation fuel.
+
+So it needs to know others' plans to prepare its own. And that's why we need transition plans from everyone, from governments to businesses to banks. Another example, work on biodiversity and nature degradation.
+
+Our analysis shows that the economy depends critically on nature. Seventy percent of non-financial businesses in the Euro area would experience significant economic problems as a result of ecosystem degradation because of their dependence on what we call ecosystem services. And if these businesses run into trouble, so will the banks that finance them.
+
+And finally, and I used this word earlier, adaptation. Adaptation again. Adaptation.
+
+Regardless of all our efforts to tackle climate change, some impacts are unavoidable. Very recently, for example, we saw the impact of the devastating floods in Central Europe. And we need to make sure that our economies and societies are equipped to withstand these changes.
+
+For instance, people's homes. They need to be upgraded and adapted, which, of course, involves costs. And consider, for example, relocating homes to avoid areas that are increasingly exposed to recurring and ever-recurring floods.
+
+If this doesn't happen, the economic lifespan of capital becomes shorter, involving financial risk to those that are exposed. Here's an example. So in our example, homeowners and banks, if they have a mortgage on their homes.
+
+Ah, okay. Now finally, we need to ask ourselves, to what world do we need to adapt to? So we are actually, we, humankind, we are not on track to limit temperature increases above pre-industrial levels to one and a half degrees Celsius, which is the goal of the Paris Agreement. And we are not even on course to limit the temperature increase to two degrees.
+
+In fact, we are looking at 2.9 degrees. And again, this is climate science. We are looking at 2.9 degrees, only if all mitigating measures are implemented.
+
+Wow. Doesn't look good. It means that we cannot only adapt to a world of one and a half, hoping that we will get there, but we need to base ourselves again on science.
+
+And climate science tells us that we are presently on a 2.9 degree Celsius pathway. So that is the world that we need to keep in mind when we take our adaptation measures. So overall, the two of you left us all very worried that firstly, people are very exposed financially to climate catastrophe, that the adaptation we have to go for is really not the best scenario, right? And also, with the message that if we don't act now, the economic impact of climate change and nature degradation will be very big.
+
+Also on world GDP, so more than 10% and possibly even 19%, as Livio told us before. We always have a question at this point for our guests, and that's for a hot tip linked to the topic we're discussing today. So the impact of climate change and nature degradation on our economies.
+
+Livio, let's start with you. And what's your hot tip? So I have one Italian language and one English language tip, if I may. So the Italian language tip is an author called Gianni Rodari.
+
+So probably many of us of our generation know it. My mom used to read from him when I was a child. And it's interesting that he was an early author on environmental issues.
+
+And I remember at the time, the concern was not global warming. At the time, it was that the earth's resources would be finite. It was a recent discussion, but still was a moment in the 70s when this environmental movement was being born.
+
+So it's a very interesting time. The more recent kind of tip is a book called Hot House Earth. The author is Bill McGuire.
+
+And for me, it was a very enlightening book on the fundamentals of climate change, why it happens, what we know about it, what we don't know about it. So if you want to impress your friends with some facts about polar circulation or CO2 concentration, it's a good book to be knowledgeable about the basics of climate change. Thanks, Livio.
+
+Frank, what do you have for us today? You know, sometimes this topic just seems too big to be digested. So I see the flooding. I see the fires.
+
+And just recently, a new study showed that the amount of carbon absorbed by land has temporarily collapsed in 2023, mainly because of droughts and wildfires. So really, it's terrifying. Yes.
+
+So I understand that people sometimes get depressed. Yeah. Now, so my hot tip for today is that I want to invite our listeners to trust the science.
+
+Science is telling us that climate change and nature degradation is massively impacting our economies. It also tells us that the sooner we act, the better we can mitigate the negative impacts. So we cannot just close our eyes and hope for the best.
+
+Waiting will make things worse. Yeah. So I'd like to point listeners to science today.
+
+Firstly, to the website of the Intergovernmental Panel on Climate Change, the IPCC. And here you can find all the latest reports and accompanying summary conclusions that outline the urgent need to take action. Yeah.
+
+And I would suggest reading even just the headline statements or the executive summary to get an idea of what we are up against and what we can achieve with ambitious action. And there's also actually a short video on the latest reports so that, you know, that could also be interesting to our listeners. So in summary, take the science seriously and know what science is telling us and act.
+
+So for our listeners, we'll be sure to link all these very interesting hot tips from Livio and Frank. And thank you to both of you for sharing your insights today. My pleasure.
+
+Thank you. And if you want to learn more about the research topics that we discuss here today, check out the show notes. You've been listening to the ECB Podcast with Stefania Sekola.
+
+If you like what you've heard, please subscribe and leave us a review. And in the spirit of Europe, I'd like to end in Dutch today and say tot goends. Until next time, thanks for listening.
+
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)

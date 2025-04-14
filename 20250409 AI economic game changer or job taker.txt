@@ -1,0 +1,163 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+You're listening to the ECB podcast, bringing you insights into the world of economics and central banking. My name is Paul Gordon. Now artificial intelligence, AI, is everywhere, it seems.
+
+Great claims are made for how it will supercharge economies. The evidence of that isn't always obvious, though. Only a few weeks ago, Bloomberg News channeled an old quote about computers by Robert Solow to say, AI is everywhere, but the productivity statistics.
+
+Meanwhile, workers are fearing their futures. So is it true? In today's episode, we'll take a closer look at what AI means for the economy. We'll talk to three experts today who published on the ECB blog recently on the topic, looking at productivity, job prospects, and energy supply.
+
+That's all coming up in this episode of the ECB podcast. Let's focus on jobs first. Just a few weeks ago, an Italian newspaper published an entire special edition of their paper written by artificial intelligence.
+
+Hollywood fears that AI-generated video could be the end of cinema. And in February, Bill Gates projected that over the next decade, advances in artificial intelligence will mean that humans will no longer be needed for most things. Elon Musk, who has a lot riding on AI, as does Bill Gates, has said, there will come a point where no job is needed.
+
+You can have a job if you want a job. So with that in mind, I asked AI whether it would replace me as a podcast host. Here's what it said.
+
+As an AI, my role is to assist and augment human capabilities rather than replace them. While AI can contribute to certain aspects of podcast production, it is unlikely to replace the unique qualities that a human podcast host brings to the table. OK, well, that sounds reassuring, or you might say it's exactly what my future AI overlord would say before replacing me.
+
+But let's see what our three experts have to say. First, I'm joined by ECB expert Antonio Dias da Silva, who works on AI adoption and employment prospects. Antonio, is AI going to take our jobs? Paul, thank you very much for inviting me.
+
+It's a pleasure to be here with you. It is very common that new technologies spark fears of job losses. Those fears are not completely unfounded, as all professions could become obsolete as a result of automation.
+
+But technologies also create new tasks. In the past, new technologies created more new tasks and opportunities than they automated. But that is an aggregated effect.
+
+Some workers had to face painful transitions and others saw their abilities enhanced by new technologies. So it remains to be seen who will benefit from AI and whether AI will have the same positive net effect on employment as previous technologies. At the moment, the best might be to look at AI as not necessarily a job taker, but definitely a job changer.
+
+And that will require re-skilling and retaining of the current labor force. That said, a way to mitigate the impact of AI on one's personal job prospects might be to learn how to make use of it early on. Reports of AI ending human labor, in my perspective, may be greatly exaggerated.
+
+Okay. So, I mean, because we have gone through waves of industrialization and automation in the past. In some ways, it's no different.
+
+But the lesson here then is don't turn a blind eye to artificial intelligence. You've done research on who uses AI and what they're thinking about it. What did you find out? Indeed, we asked workers in 11 Euro area countries whether they used AI at their work.
+
+And that was in May 2024, using the CES Consumer Expectation Survey. So what we found is that, first, there is a notable age divide. Workers aged 18-34 are twice as likely to use AI in their worker, that is 36%, compared to those aged 55-74, who came in at 18%.
+
+Second, workers with university degrees are also more likely to use AI, that is 30%, compared to 18% among those without degrees. And third, there is a less pronounced but noticeable gender difference, with men more likely to use AI, that is 28%, compared to 24% of women. Okay.
+
+So a smaller difference on gender. The young and the highly educated are using AI in their jobs already, which to some would not be a huge surprise. But how do they feel about the introduction? What are their perceptions of what impact it's having? We also asked workers about their expectations regarding the impact of technological advancements like AI in their current jobs and their employment prospects over the next five years.
+
+Most workers expressed neutral to favourable views. About 41% of all workers believe that new technologies will have a positive effect on their productivity or job opportunities, and another 37% do not anticipate any effect. This means that only one in five workers have negative expectations, possibly fearing job losses or worsening employment prospects.
+
+But there again, visible differences across demographic groups. We find significantly more positive views of AI among workers with university education and younger workers. And this difference maybe relates to the actual usage of AI.
+
+In total, nearly two out of three AI users foresee positive effects of AI in their future employment prospects. This is quite encouraging, isn't it? Because a lot of the speculation about job losses, therefore, seems to be coming from people who aren't actually using it. So the lesson is, if you're fearful of AI, give it a go.
+
+You might find it better than you expect. That's one way to look at it. Using AI might help people discover the potential benefits.
+
+Another way to look at it is that people who have a more positive view of AI tools in the first place are already more likely to use them. Yeah, it's a little bit chicken and egg, isn't it? I suppose the key here is, how do you get the reluctant people to engage? Yes, we also looked at AI usage and perceptions in different sectors. We found that the share of workers using AI is highest in the financial service sector and professional services.
+
+At the other end of the scale are workers in the health and social sector, hospitality sector and trade and transport sector. Much like demographics, those sectors with the highest use of AI tools report the most positive attitudes towards them. By contrast, the sectors with the lowest shares of AI use report some of the least positive attitudes.
+
+The same pattern is observed when we look at employee groups or their specific occupations. We see that managers, professionals, technicians have more positive attitudes towards AI and believe that AI will have a positive impact in their jobs. This difference in attitudes towards AI of people working in different occupations could be related to education levels, as well as training opportunities.
+
+Indeed, we find a positive link between the amount of training received and level of AI adoption. Thank you very much, Antonio. So the lesson here seems to be that it's important to introduce AI tools with care so that those who can potentially benefit from them aren't lost midway through the process.
+
+Thank you very much. Thank you, Paul. The fear of job loss is real, of course.
+
+It needs to be managed. Training opportunities and offering AI tools early on so that employees can experiment with them and make use of them in their daily routines could be one way to go about it. And the reward is greater productivity, in theory.
+
+This is very important for Europe. Artificial intelligence plays a major role in the EU's initiative to strengthen economic growth and competitiveness, the so-called competitiveness compass. So I'm joined now by ECB expert Guzman Gonzalez Torres Fernandez, who has researched how AI can boost productivity.
+
+What do we need for AI to fulfill its promises? Hi, Paul. Thanks a lot for having me. So first of all, let me say that we're still in the very early stages of AI.
+
+And basically what this means is that even the firms that are developing it and the firms that are also implementing it in an early stage, they don't really know what to do with it right now. Right? They have to figure out how to make the best of it. So in that sense, one of the central preconditions that we need for AI to really thrive is that firms adopt it, even if it's just to experiment with it, just to figure out how to put it to good use.
+
+Right? And you've been looking into this through the ECB's own survey, regular survey of corporations, asking the questions about how much they're using it and why they're using it and so on. So first of all, let me say that the data showed that there's a significant difference across different types of firms, different sizes of firms in the implementation in how intensively they use it. Right? The ECB survey that you mentioned is the corporate telephone survey.
+
+And so this is basically a regular interview that we have with 50 to 70 of the biggest firms in Europe. Right? And we ask them about the economy, how's it going? In that survey, we find that about three out of four firms are already using AI. However, even though they are using it, they do claim that less than 25% of their employees more or less use it on a daily basis.
+
+Now again, do keep in mind that these are the largest firms in Europe. If you look at other data sources, you'll find that actual adoption among the smaller firms is much lower so far. Right? So, you know, it's going very slowly.
+
+A silver lining here though, is that at least in our survey, these firms are saying that they're not foreseeing using AI to reduce the workforce. So there's that. There is that.
+
+So the bottom line here is AI can be productive if you use it. You got to use it. In what way, I mean, is AI likely to have an impact on productivity as we go forward? That's a great question.
+
+And the debate is definitely still out there. Right? Now, you know, the productivity gains that are envisaged by some of the economists out there, they basically are derived from the assumption that it'll become a general purpose technology. So basically what that means is that it'll be a technology that will be used throughout the economy, much like electricity or the internet, right? Every business uses those.
+
+Now, as we already discussed earlier, we're all still trying to figure out how to put AI to good use. And so for the time being, basically our estimates are based on how many tasks in the economy we currently think that AI makes more efficient. One currently accepted estimate out of the whole range of estimates that are out there is that your area productivity could increase by about 0.35 percentage points per year if the current structure of the tasks that AI can improve stays the way it is over the next 10 years.
+
+Okay. But this depends on the right conditions being in place, right? The right attitudes, but also the right conditions in which the companies are operating. Absolutely.
+
+That's crucial. So we've also looked into that. And then we've adjusted the estimates that I was just talking about for that, right? And basically what we do is we use two indicators.
+
+So on the one hand, we have the IMF's preparedness index, which measures how prepared countries are for AI in terms of things like digital infrastructure, regulation, access to a tech savvy labor force, right? And then on the other hand, we also have the UN productive capacities index, which includes about 42 economic characteristics that are important for productivity. So these would be things like access to credit, transportation, or the quality of the institution. Now taking into account the level of these indices for countries in the euro area, what we do is we take the 0.35% per year that I mentioned earlier, and we reduce that to about 0.31. That's still pretty big because over 10 years, it would mean a gain in productivity of about 3.1%. Okay.
+
+So not bad, definitely. But there's work here for policymakers then to do to get these conditions into place. Absolutely.
+
+And, you know, unfortunately, these conditions seem less than ideal right now in certain European countries, right? So there's a lot of work to do there. And I think that policymakers basically have two avenues that they can use to help firms really reap the benefits of AI. So on the one hand, there's facilitating the availability of the necessary skills, the digital infrastructures that we already talked about, access to credit, and all these conditions that are important for firms to be able to employ AI.
+
+And then on the other hand, though, they also have to implement certain structural reforms that will foster a dynamic business environment and really help firms have the right incentives to invest in innovation. Okay. Well, there is plenty of work ahead, by the sounds of it, for all involved.
+
+But Antonio's point was, don't be scared of AI, use it. Your point here is that the productivity can follow as long as the conditions are in place if you use it. Let's take a look at the next stage, which is the impact on energy.
+
+Guzman, thank you very much indeed. Thank you, Bob. So one important aspect mentioned there is digital infrastructure.
+
+Data centers, for example, are indispensable for deploying AI tools on a large scale. And AI data centers need energy, a lot of energy. And the question here is, how does this all fit in with the second transformation our economy is going through at the moment, the green transition? I'm joined now by Myles Parker.
+
+He's an economist at the ECB who's published extensively on this topic. Myles, very good to see you. Let's start by looking at the size of this problem.
+
+How much energy does AI actually need? Well, thanks for having me on. The answer is potentially quite a bit. Let's take a look at an example of Ireland.
+
+In 2033, so just before Chattanooga retook off, data centers already accounted for 21% of total electricity used in Ireland. That's more than all the urban households put together. To be fair, Ireland's one of the major hubs in Europe.
+
+Actually, Frankfurt here, where we are today, is another one of the major hubs. Let me give you another example to put things in perspective about how much electricity use might increase with AI. Take a standard Google search.
+
+That's about 0.3 watt hours of electricity. Now how much is that? If you think of a standard 60-watt light bulb, that's about enough electricity for 20 seconds. Now AI comes into play, and that increases quite dramatically.
+
+So chat GPT estimated to vary about 10 times that amount. And then when you have an AI augmented Google search, we go up to seven to nine watt hours per request. Now, going back to light bulb, that's nine minutes.
+
+So do you turn your light bulb off when you're out of the room for nine minutes? Think about that when you do the next search. I planned my latest holiday on co-pilot, and now I'm thinking how long I could have kept the lights on for while I was doing that. That's extraordinary.
+
+And it's not going to go down, is it? The demand for energy is going to continue to go up. Absolutely. But not just some AI and data centers either.
+
+If you look at the second transformation we talked about, the green transition, that likely also needs quite a bit of electricity too. Projected an extra 9 million battery electric vehicles in the EU in the next couple of years, and 11 million new heat pumps. And all of that means far more electricity demand in Europe.
+
+And that means that to decarbonize our electricity, that's going to be much more difficult. We don't have to just replace the current coal and gas powered stations, but we also need to have new ones to replace the extra demand. So do we face a choice here? Go green or go digital? I don't think so.
+
+I think that's exaggerated. I don't think these two transitions are necessarily at odds with each other. Taking back to their core, what are they? Both of them involve creating new technologies and its widespread use across the economy and society.
+
+For climate change, we need new carbon-free technologies, we need to start using them. This is where AI comes in useful. It's already in fact proving useful and providing us with new technologies and new methods to decarbonize the economy.
+
+So there's this positive interaction between the digital and green transition that's possible. Give me some examples of how that would work. Sure.
+
+Let's think about the green transition. We need to build new solar and wind power plants, but actually the modeling for these new wind power sites is quite difficult. You have a bunch of turbines and they interfere with each other.
+
+To solve that problem, you need to optimize using quite complicated fluid dynamics. Historically, calculating these things has taken months, but using AI, they've managed to improve the speed by up to 4,000 times. So now rather than months, it's calculated in minutes.
+
+So actually AI is saving us electricity in this case. And also AI is helping data centers themselves. So Google uses DeepMind and it managed to reduce the energy needed to cool data centers by 40%.
+
+So here are just some examples of how AI will help us with the green transition. Other examples include finding new materials, new processes, and general ways of basically speeding things up and more resource and energy efficiency in the economy. Okay.
+
+Guzman referred earlier on to the need for the right conditions to be in place. So there's a lot you're saying here that AI can do to make these data centers and wind turbines and so on more energy efficient. But there are blockages out there at the moment.
+
+It's hard to get these things underway sometimes. Sure. And for green and digital, there's one major roadblock here, right? And that is putting in place new electricity capacity, particularly for green electricity, for solar and wind.
+
+There are substantial blockages in terms of both authorizations, the permission to build them, but also connecting to the grid. And that is a backlog which is affecting now both building new data centers and building new renewable capacity. The International Energy Agency estimates that if we were to construct all the current southern wind projects which have already had been grid clearance, that would increase the capacity of renewable energy in place in Italy by 20 to two by 45%, and for Spain it would triple it.
+
+So we have actually an effective and efficient electricity generation source which is carbon free, which is wind and solar, but we're not actually building enough, right? And that is preventing both the green transition to take as much speed as we want to, and it's also getting in the way of data centers and AI. So what we potentially need here, and you hear this in many areas within the European Union, is deregulation, yes? Certainly deregulation is important to speed up the process of authorization. That would help a lot.
+
+And also, but it also takes money, right? Addressing these grid bottlenecks and grid connections will take money. It will take concerted effort by grid operators and other stakeholders. But there's also investment beyond that, and actually for both AI and green transition, there are substantial investment needs.
+
+So our colleagues here at ECB have estimated that for the green transition, we need to increase investment by 2.7 to 3.7% of EU GDP every year until 2030. And European Investment Bank identified an AI investment gap of 5 to 10 billion euro per year. So these amounts are substantial.
+
+That's money and deregulation, but also getting in place exactly as Antonio and Guzman have talked about, the right conditions, having the right skill sets, the right regulations that encourage people to take up new technologies. Because as I said earlier, both AI and the green transition involve taking up new technologies. Okay.
+
+So the future for AI can be bright, let's put it that way. But a lot of effort is required by all involved, I'm saying. Myles, thank you very much indeed.
+
+Thank you. Now, as always, before I guess leave, I have a remaining question for each of them. What's your hot tip for our listeners today, AI generated or otherwise? My hot tip is to check out the Economist's coverage of AI.
+
+They consistently provide clear, insightful articles on AI and occasionally go deeper into the topics through excellent podcasts. One standout is Barbage, their tech-focused podcast, which featured recently Geoffrey Inton, a pioneering figure in AI. Definitely worth listening.
+
+Well, Paul, I'm going to take the opportunity to do some shameless self-promotion, if you don't mind. We have actually just organized a conference on the transformative power of AI right here at the ECB. Now, your listeners can find the entire recording on YouTube, and in particular, I'd like to invite them to listen to both of our keynote speakers.
+
+First of all, Christina McElhern from the University of Toronto, and then Jonathan Haskell from Imperial College, as well as the policy panel with which we closed the conference. So there's my totally objective hot tip. Actually, I'd recommend people to take a look at the International Energy Agency's website.
+
+They have a whole pile of reports and data looking at not just the green transition and what we need to do to improve renewable energy, but also electricity demand. So data centers, the usage there, the expected demand increases from green transition AI. So have a look there.
+
+It's a whole bunch of really thorough and detailed reports and data. Thank you once again, Antonio, Guzman, and Myles. No AI-generated answers there, all their own work.
+
+For listeners, you can find the links to their ECB blog posts on AI in the show notes. The recording of the AI conference mentioned is available on the ECB's YouTube channel, and that's also linked in the show notes, of course. And that brings us to the end of this AI episode of the ECB podcast.
+
+You've been listening with Paul Gordon. If you like what you've heard, please subscribe and leave us a review. In the spirit of Europe, I'd like to end in Polish and say do widzenia.
+
+Until next time. Thanks for listening.
+
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)

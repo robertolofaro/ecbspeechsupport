@@ -1,0 +1,153 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+(0:03 - 0:40)
+Uncertainty is the only certainty there is, so said mathematician John Alan Paulus in his book, A Mathematician Plays the Stock Market, and so it seems today as we grapple with a rapidly shifting geopolitical environment. For example, in April, US President Donald Trump announced tariffs on his self-proclaimed Liberation Day, targeting a very long list of countries and territories, some uninhabited by people around the world. The stock market slumped and US bond yields rocketed, then a tariff reprieve followed, and recently China and the US agreed a 90-day pause in their tariff war.
+
+(0:40 - 1:07)
+In Ukraine, hopes of a ceasefire were raised, then quickly dashed, conflict continues in the Middle East, and more recently, there has been a flare-up between Pakistan and India, and the American economy shrank in the first quarter for the first time since 2022. So what comes next is anyone's guess. You're listening to the ECB podcast, bringing you insights into the world of economics and central banking.
+
+(1:07 - 1:31)
+My name is Paul Gordon. So what are the economic and financial implications of such turbulent times? What does it mean for Europe's bank and non-bank sectors, for companies and for European households, and for government finances? Well, I'm joined today by John Fell, who is the Deputy Director General for Macro Prudential Policy and Financial Stability here at the ECB. He's been with us before.
+
+(1:31 - 1:42)
+John, thanks for joining us once again. Thanks for having me back, Paul. So you've been working hard on the latest edition of our Financial Stability Review.
+
+(1:42 - 1:55)
+Comes out twice a year and has just been published. And I've got to say, it cannot have been an easy one to write this time. A quote from Niels Bohr, who won the Nobel Prize in physics, seems apt.
+
+(1:56 - 2:30)
+He said, Prediction is difficult, especially if it's about the future. There are always challenges in looking ahead, but this time really has been more challenging than usual in the almost four months since the new administration took over the reins of U.S. government. It has unveiled a series of major economic and financial initiatives, tariffs on trading partners, a budget resolution featuring an estimated four point five trillion dollars in tax cuts and proposals for mass deportation of undocumented immigrants.
+
+(2:31 - 3:01)
+Now, while all of those initiatives were largely flagged during the presidential campaign and so shouldn't really have come as a total surprise, the sheer speed and scope of implementation did take markets by surprise, as did several geopolitical developments. Now, global financial imbalances. And by this, I mean both trade imbalances and their financing have been latent for a long time, but they've returned to the fore.
+
+(3:02 - 3:18)
+And we've witnessed frequent policy shifts since January aimed at addressing them, as well as reversals of those policy shifts. And that's resulted in pronounced economic policy uncertainty, both in the U.S. and also here in Europe. And it triggered market volatility worldwide.
+
+(3:19 - 3:47)
+Now, we have a chart in the episode which shows that U.S. economic policy uncertainty reached at least four decade highs in April. Trade policy stands out as the domain with the highest reading, but uncertainty rose across almost every domain that one can think of. So includes monetary, fiscal, regulatory and even, of course, national security and to levels that we haven't seen since at least the mid 1980s.
+
+(3:47 - 4:11)
+Now, our headline message in the episode this time is that this is the quote, a rapidly shifting geopolitical environment could test euro area financial stability. Now, to explain a bit what we mean here, our assessment is based on a thorough identification of vulnerabilities and also an assessment of the triggers that might unravel them. And the vulnerabilities.
+
+(4:12 - 4:38)
+Imbalances are largely known, and apart from trade reliance, these are broadly the same as they were last time. Triggers, on the other hand, are rarely identifiable in advance, but they usually determine the nature and the speed of adjustment. So all of that said, until a resolution of the trade conflict is found, we think the likelihood of tail events will continue to be very high.
+
+(4:38 - 4:51)
+So a lot of instability there. And I should note that the charts that you mentioned will be see them in the financial stability review, which we'll link to in the show notes. But basically, these are lines going up steeply.
+
+(4:52 - 5:02)
+When you see that happen, what you tend to get is people seeking safe havens for their money. So gold is a classic. Swiss franc in modern times is another money has indeed flowed in those directions.
+
+(5:02 - 5:17)
+But another typical safe haven is U.S. treasury bonds. And it's been pretty different this time, hasn't it? What's going on? Yeah. So I mean, typically, market participants view U.S. treasuries as a safe haven during times of market stress.
+
+(5:18 - 5:45)
+And just to explain a bit, you know why and what that means. So when markets for risky assets, equities, say are volatile, you know, the stock market crash going on or something risk averse investors fearful of losses often seek safety and capital and preservation in those situations. And U.S. treasuries fulfill these needs, both because their default risk is generally considered to be negligible and also importantly, because they are highly liquid.
+
+(5:46 - 6:18)
+The depth of market liquidity makes them attractive because usually they can be easily bought or sold without moving prices, even when markets are in turmoil. Now, when risky asset prices are falling, the typical pattern that we tend to see is investors flocking to treasuries, pushing their prices up and their yields down. And that's been witnessed time and time again during the global financial crisis in 2008, during the euro area sovereign debt crisis, 2011 and 2012 at the initial stages of the covid-19 panic.
+
+(6:18 - 6:45)
+Now, this time, if I might call it the April 2025 tariff tantrum, it was indeed different, more or less a black swan event. Treasury sold off alongside equities with yields rising sharply instead of falling. So on account of this, questions have been raised about whether the market can be relied upon in the future to serve as a reliable safe haven.
+
+(6:46 - 7:01)
+Now, the answer really depends on the causes and on this. I think the jury is still out. Various narratives have circulated, including shifts in safe haven perceptions, forced unwinding of of leveraged positions.
+
+(7:01 - 7:37)
+We've spoken before about the basis trade and in the office or market liquidity strains, de-risking and then also technical factors such as mismatches in derivatives markets. But I think at this stage, nobody knows for sure. But what we do know is that some hedge funds and market makers endured sizable losses, and that was most likely due to heightened volatility, which led to margin calls, but also to correlation breakdown because the usual stress correlation between equities and bonds switched signs.
+
+(7:38 - 8:03)
+Models will not have been ready for that, and it's this is potentially a financial stability concern because correlation breakdowns have been central in some notorious case studies of financial instability. The collapse of LTCM in 1998 is probably the most prominent example. Thankfully, though, we didn't have any failures or any reported failures this time.
+
+(8:04 - 8:25)
+It's interesting, actually, the way you get those correlation breakdowns sort of analysis showing that whereas the hedge funds in many cases lost money and the certainly the traditional long only investors lost money in this sell off. It was the retail investors who piled in because they're not using processes and models and so on. But anyway, let's say that story is going to play out for a while.
+
+(8:26 - 8:45)
+What that did provoke and the whole tariff tantrum, as you described it, has provoked is a reaction in places like Europe here. And one of those is security and defense. Now, your report makes an interesting observation here about the impact of an increase in defense spending in Europe.
+
+(8:45 - 9:02)
+This is the European Commission's recently announced readiness 2030 plan, which aims to bolster national security across Europe. The traditional reliance on the US is more fragile than it used to be. A lot of money is set to be invested over the coming years is a clear security argument, a political argument.
+
+(9:03 - 9:25)
+But what about government budget sustainability? In short, can we afford this? So this is a great question. And the concern is that pressure to raise defense spending is coming at a time when there were already concerns about sovereign debt sustainability. And the pressure is also coming at a time when governments have many other structural challenges to tackle.
+
+(9:26 - 9:43)
+So climate change, digitalization, aging populations. So coming on top of all of that, whether higher defense spending leads to strains on public finances. It very much depends on whether it supports growth or not.
+
+(9:43 - 10:00)
+Now, debate on the so-called defense spending multiplier. So to explain, that's a measure of how much economic output increases for each additional unit of spending. And the debate centers around the composition of the spending and whether defense hardware is imported or not.
+
+(10:01 - 10:19)
+So this is not my hot, my hot tip this time. But in an earlier podcast, I recommended Johnny Harris, who produces high quality YouTube videos on geopolitical topics. Half a year ago, he uploaded a video entitled why the U.S. military spends so much money.
+
+(10:20 - 10:40)
+And in that video, he goes literally line by line through the items that the U.S. military spends its money on. Now, most people think of the hardware, military vehicles, weapons, et cetera. But he shows that salaries for soldiers spending on their health care and the education of their children actually consumes a sizable fraction of that budget.
+
+(10:40 - 10:59)
+Now, since that kind of spending mostly crowds out other spending in the economy rather than adding to GDP. So in a different setting, those soldiers might have worked on other activities and the state might have anyway educated their children. So the spending multiplier here would be low.
+
+(11:00 - 11:14)
+Higher multipliers might be expected for investment in hardware. But if the hardware is imported, that will also lower the multiplier. So for those reasons, there's a lot of debate on the issue and the notion of a positive multiplier remains contested.
+
+(11:15 - 11:27)
+Now, we thought we would try to look into this to shed some light on it. We reviewed the academic literature and what is known on the topic and its reference in the episode. Now, one is to a so-called meta study.
+
+(11:28 - 11:56)
+So that's a research methodology which collects and combines results from lots and lots of other studies to get a clear picture on what the truth so to speak found in the literature is so far. Now, that meta study drew on 91 individual studies. Overall, it didn't find a clear impact for all of those countries over all of the times that it looked at, with the results being sensitive to all kinds of modeling and sampling choices.
+
+(11:57 - 12:16)
+For instance, it seems to matter whether the country's doing the spending are developed economies or not. Now, this is very well explained in a second paper that we cite, which considers 129 countries over the period from 1988 to 2013. And it separates between advanced and developing countries.
+
+(12:17 - 12:50)
+And a key finding was that multipliers were twice as large for advanced economies. Maybe because developing economies are importing and the issues that I just described, but it also found that multipliers are twice as large again for advanced economies when they were in recession. So if that holds, while the circumstances are unpleasant at a moment when growth in the euro area is weak, additional defense spending could.
+
+(12:51 - 13:06)
+Prove well timed and potentially lifting growth and and helping to offset the fiscal stress. OK, that's interesting. There's also a somewhat unpredictable element to defense spending, isn't there? Which is innovation.
+
+(13:07 - 13:27)
+There's a lot of work goes on in military, which leads to unexpected, positive consequences. Sometimes it's not all about building stuff that will blow up or never be used. The Internet is a great example of a technology developed for defense reasons, but which turned out to have revolutionary applications in civilian life.
+
+(13:27 - 13:46)
+And in history, one can find countless examples of defense needs, inspiring new technologies. It was actually Plato. I thought it was Shakespeare was Plato, who first coined the phrase necessity is the mother of invention.
+
+(13:47 - 14:20)
+I mean, in writing at the times of ancient Greece, presumably it came from some defense motivation. Now, if one leafs through the notebooks of Leonardo da Vinci, they are filled with ideas for military machines, including flying machines and submarines and also more, more life threatening machines. Now, in our lifetimes, beyond the Internet, other innoventions originally developed for military needs have become part of our daily lives.
+
+(14:20 - 14:51)
+You may not even be aware, for example, GPS, microwave technology, drones, cyber security technologies, night vision, all having applications in civilian life. And that's not to mention many, many life saving medical innovations to prosthesis, for instance, but there's all kinds of others. And I think these are all examples of every cloud having a silver lining, so to speak.
+
+(14:51 - 15:06)
+And who knows what innovations will come in the future? Innovation is where productivity growth comes from. So at the very least, I think there is opportunity to boost growth this way. Let's take a step back, if you like, really and say, look, we've got all these instabilities that are out there.
+
+(15:07 - 15:18)
+Obviously, we're not promoting war. We are pointing out there can be benefits to defense spending. But we also do need to take measures to protect against these instabilities.
+
+(15:18 - 15:31)
+This is part of the recommendation side of the FSR. What do we do? As always, we have a policy chapter on this in the FSR. We don't just identify problems, but we also try to identify solutions.
+
+(15:31 - 15:57)
+So in that policy chapter, we say, given the uncertainties that lie ahead, we advocate maintaining macroprudential buffers so that if or when the time comes, they can be released, avoiding amplification for non-banks. We continue to advocate a prudential policy framework which takes a macroprudential perspective. The focus, again, being on amplification.
+
+(15:58 - 16:25)
+So, for example, we recommend ensuring that investment funds have sufficient sufficiently prudent liquidity buffers in place so that they are not forced to sell assets in a situation where their investors are all panicking at the same time during a moment of market stress and asking for their money back. For sales like that would make the situation even worse. And that's something that we want to avoid.
+
+(16:27 - 16:54)
+OK, John, thank you very much once again, but you don't get to leave without a hot tip, which we do for all our guests. We've been discussing the financial stability review, but as a follow on from that, what is your tip? OK, so I mentioned LTCM. What I meant was long term capital management and by now infamous hedge fund, which provides a very good example of correlation breakdown leading to financial stress.
+
+(16:55 - 17:16)
+Now, a good read on the topic is when genius failed by by Roger Loewenstein. His book chronicles meteoric rise of LTCM, who relied heavily on leverage, but also on complex mathematical models. And those models.
+
+(17:18 - 17:30)
+Didn't work when the correlations changed, and it turned out to be a recipe for disaster, almost triggering a global financial crisis in 1998. It's a good read. I'm sure I'm going to dig into myself as well.
+
+(17:30 - 17:44)
+John, thank you very much indeed. As ever, that is John Fell, who is one of the people behind the Financial Stability Review, the deputy director general of Macroprudential Policy and Financial Stability. If you want to look at the FSR, as it's commonly known, it's in the show notes.
+
+(17:44 - 17:56)
+So take a look at that, of course, and dig in some of those uncertainty charts that are in there. You've been listening to the ECB podcast with me, Paul Gordon. If you like what you've heard, subscribe, leave us a review.
+
+(17:57 - 18:06)
+And in the spirit of Europe, I'd like to end in Swedish this time and say, probably badly, Hej då. Until next time, thank you very much for listening.
+
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)

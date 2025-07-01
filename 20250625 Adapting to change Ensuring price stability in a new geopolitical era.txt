@@ -1,0 +1,167 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+[Paul Gordon] (0:00 - 1:03)
+Uncertainty about the rules-based international order is exceptionally high at the moment, and that raises some fundamental questions for monetary policy. How do we deliver price stability in this new and still-developing geopolitical era? At the same time, the ECB is currently undergoing a strategy review where the bank assesses its work and processes to make sure our monetary policy is fit for purpose.
+
+So, what are the key factors to consider in light of recent global challenges? Top policy makers and academics will discuss all of this and more in Sintra, Portugal, at the 2025 ECB Forum on Central Banking, over three days starting at the end of June. You're listening to the ECB Podcast, bringing you insights into the world of economics and central banking.
+
+My name is Paul Gordon, and as we gear up for this year's ECB Forum, I sat down with ECB Chief Economist and Executive Board Member Philip Lane, a key figure behind the strategy review, and of course, a familiar voice here on our podcast. Philip, great to have you back with us.
+
+[Philip R. Lane] (1:03 - 1:03)
+Good afternoon.
+
+[Paul Gordon] (1:04 - 1:27)
+So, the last time you spoke on this podcast, you reflected on the key events of 2024. All seems a rather long time ago now. The world's been moving at a blistering pace, albeit not always in a consistent direction.
+
+So, let's have a quick status report on where we are. You and your colleagues on the Governing Council have just decided to lower our key interest rate to 2%, the deposit rate. It's the lowest level in two and a half years.
+
+Why did you do that?
+
+[Philip R. Lane] (1:29 - 4:11)
+So, I think it's important to acknowledge that where we are now in June 2025, I think it's an important transition phase. So, this decision, if you like, really had two motivations. One is looking backwards, that for, as you say, for the last two and a half years, indeed for three years, since we first hiked in July 2022, the big task has been to make sure that inflation, which peaked at over 10% in autumn 2022, came back to our target of 2%.
+
+And essentially, in our meeting last week, we reviewed the evidence, and inflation is around our target. And essentially, some of the reasons why we kept rates high, in order to make sure that the high inflation was squeezed out of the system, a lot of the answers there have come in. I don't think it's entirely over.
+
+We need to see services inflation come down. But one basic reason to cut is the progress we have made in returning inflation to target. But there's also, in line with your introduction, there was a forward element to it.
+
+When we look forward, there's many possibilities, as you say, in terms of how this new world will unfold. But in recent months, what we've seen is a significant adjustment in energy prices, and in the exchange rate. And what that has meant is when we looked at the forecast for inflation for next year, it was around 1.6% for 2026. And essentially, what we want to make sure on a forward basis is anytime we see a potential deviation from 2%, so long as it's not entirely trivial and small and self-reversing, we need to make sure our monetary policy will bring inflation back to 2%. So for me, there's a double purpose to that cut. One was in line with the previous cuts, as we've made progress in returning inflation to target.
+
+And number two is, let's make sure that our monetary policy supports that any future shock also does not derail our targets. So it's all target driven. And where we are now, it's a little bit backward looking to squeeze out the remaining inflation from the spike, but also forward looking to make sure that we don't see future deviations that go on for too long.
+
+And so that is a decision which is different in nature to some of the previous decisions.
+
+[Paul Gordon] (4:12 - 4:29)
+So it's a clear explanation. There's a backward looking element and a forward looking element, but it cannot be easy, particularly this forward looking element. You've got all this uncertainty.
+
+We don't really know how the world is developing in the moment. How exactly do you go about working out how to factor that into your decision making?
+
+[Philip R. Lane] (4:30 - 6:34)
+I think this is, I think, very important to be clear that, of course, right now, we do think, I agree with you, uncertainty is elevated, but we always make decisions under uncertainty. So one basic element, and let me emphasize this, is in a world of uncertainty, you know, if you read a newspaper report, if you read an analyst report, they will say, well, you know, I think the new world of tariffs is going to raise inflation. Someone else says, well, I think it's going to lower inflation.
+
+Or you can come up with theories about exchange rates, new types of investment policy. So what the world expects us to do, number one is put all of that together. When you look at everything jointly, which is what we do, what is our baseline?
+
+And so number one, we have to come up with a baseline. So the staff develop a baseline view. But on top of that, you also have to ask, what if that baseline view is wrong?
+
+And so you look, OK, under what circumstances will inflation be higher than we expect? Would inflation be lower than we expect? And so you need to look at those alternative conjectures.
+
+And then for policy, for interstate policy, you do it again. You say, does this policy make sense under the baseline? And does it still make sense when we look at alternative scenarios?
+
+So if you put all of that together, the phrase is robust. Is this a robust analysis? Is this a robust decision?
+
+And I suppose that's to be contrasted with something which is overly fragile that only works under the baseline. And therefore, you might call into question when we know the world is not going to follow the baseline. The world, we don't know in which way it's going to emerge, but it's very unlikely to be exactly in line with the baseline.
+
+So that's how we do it.
+
+[Paul Gordon] (6:35 - 6:43)
+Presumably, it's also very important then to tell people what you're doing and show them what you're doing. I mean, we did publish alternative scenarios in our latest round of projections.
+
+[Philip R. Lane] (6:44 - 8:00)
+Right. So as you know from someone who I'm sure looks at the ECB website as often as I do, we publish a lot. So some of it is in relation to our module policy meeting.
+
+And so we did publish some scenarios. But we also have staff working papers. We have blogs.
+
+We have all sorts of material where people do a lot of what if. What if X happens? What if Y happens?
+
+And it's very important, again, for everyone whose professional responsibility it is to understand what the ECB is up to is we try and provide them with as much information as possible so they can also play their own what if scenarios. Because people are going to differ about what they look at in terms of, well, one person might say, I'm really concerned about what happens if the supply chains from China come under stress. Another person might be interested in what happens if our exports to America fall more than expected.
+
+And so a lot of it is more putting the ingredients on the table, if you like. We can do a little bit of assembly ourselves, but other people can assemble those ingredients in different ways according to what they're focusing on.
+
+[Paul Gordon] (8:01 - 8:11)
+So this also feeds into our current way of making decisions, which is meeting by meeting, data dependent, because this is changing on a daily basis.
+
+[Philip R. Lane] (8:11 - 9:24)
+So this is a pretty basic response. So there might be a degree of frustration. Some people would love us to come out and say, well, not only did we make this decision in June, but let me explain to you what we think we might do in July, in September, and so on.
+
+And people would like that kind of guidance. But I think that would be misleading. No matter what you say about a future meeting, people will overread it.
+
+So the discipline of saying meeting by meeting, and you might say data dependent sounds, what else could you be? But it actually has content, because in July, we're going to know more than we know now. In September, we'll know more again.
+
+And so the data dependence basically says, over time, some of the scenarios you looked at will lose relevance. Other scenarios will increase in relevance. And maybe there are scenarios you haven't even thought of, which you will have to start analyzing.
+
+So I think the discipline of meeting by meeting, data dependent, is very useful in this circumstance.
+
+[Paul Gordon] (9:24 - 9:49)
+Now, at the same time, as I mentioned, we are undergoing a strategy review. It's sort of a coincidence that the world has become so chaotic at the time we're doing strategy review, because we were always going to do one, yeah, up to five years after the previous one. But it's very important to look at how our monetary policy remains fit for purpose, robust for coming years.
+
+Where do we stand on that at the moment?
+
+[Philip R. Lane] (9:49 - 11:50)
+So I think what we need to make sure, and maybe this, again, sounds a little bit obvious, is we need to make sure is that our strategy can handle anything. It's fair to say last time we were surrounded by a lot of low inflation forces. And so our strategy focused on what we do if inflation is too low.
+
+That didn't mean we didn't know what to do in relation to high inflation. But what's fair to say on this occasion, when we look at what we think is going to face us over the next five years. So whether that's geopolitical issues, economic changes like AI, like the green transition, all of these changes mean that when I look at it, I see two-sided risk.
+
+I see some forces that can create forces that push inflation below our target. I can see forces working in the other direction. And so our strategy basically has to help us decide, OK, when do you respond?
+
+How much do you respond? How quickly do you respond to downside and to upside risks? And again, at any given point in time, part of that is working out.
+
+Some of this is just noise. And you can more or less look through it. Other factors, if you don't take care with a multi-policy response, it can lead to a longer deviation from the target.
+
+So I think the overriding assessment is the strategy needs to be agile. We need to be able to respond either to upside risk or downside risk. And that can change relatively quickly.
+
+And so I think this two-sidedness, this agility, this acknowledgement that we don't know what the future will bring. And therefore, we need to be always monitoring the data. Those are some of the big elements.
+
+[Paul Gordon] (11:51 - 12:01)
+So bearing that in mind, as I said, it's sort of a coincidence that we're doing the strategy review at a time of heightened uncertainty, a very different world. But how do you factor that into this strategy review?
+
+[Philip R. Lane] (12:02 - 13:28)
+So I think it's important that essentially in everything we do, we're able to explain to everyone, to the general public, to the professionals, how we take into account risk and uncertainty. So I gave you a description earlier on, but I think we need to be maybe more elaborate about that, because it is quite important that people understand that surprises can happen. I mean, the fact that inflation went to above 10% in October 22, this was not something that was expected.
+
+We had to deal with this. And I think it's important to be able to show that when we think about the future, again, we do report a baseline, but we would not want to mislead anyone in thinking we only look at the baseline. So it's very important that we do study these alternative scenarios and that we communicate our risk assessment.
+
+And essentially, to make sure to clear to people, and we are looking at risk, and if some of these risks materialize, we'll respond in the appropriate way. We do that anyway, but I think it's important in our communication and how we organize our processes, that that gets more prominence.
+
+[Paul Gordon] (13:28 - 13:50)
+Now, coming up very soon, we have a bunch of central bankers, former central bankers, academics, journalists, all gathered in Sintra, in Portugal, as I mentioned, for the ECB Forum on Central Banking. Adapting to the rapid changes in the global economic environment is the central theme there. It's our flagship annual conference.
+
+There's going to be a lot to talk about there. What are you looking forward to?
+
+[Philip R. Lane] (13:51 - 15:20)
+So I think maybe first of all, this is, as you say, it's the annual event. Of course, it brings people together. But behind that, there's been a lot of work.
+
+We've commissioned, if you like, four significant pieces of new research to lay a new foundation, if you like. So we have one session on labor markets. We have one session on how households respond to monetary policy.
+
+We have a session on the global trading system. And we have a session on what we call non-banks. We see around us now in the financial system, not just banks, but private equity firms, private credit firms, hedge funds.
+
+So we have some meat to get into these new academic studies. But on top of that, we have very good discussions, as you say, of these topics in the official proceedings, but of course, also on the sidelines. But I think the the goal is that you do need to step back rather than just talk about what are we going to do in July or September to look at the underlying forces.
+
+And also, because it's a global event at this point, it's useful not just to talk to ourselves. We talk to ourselves all the time in the year system, but to listen to central banks from around the world, the top academics, both from Europe, but also North America. And it's, you know, I think that conference setting is very productive every year.
+
+[Paul Gordon] (15:21 - 15:43)
+Yeah, it's worth noting to any listeners out there who haven't paid attention to this. It's going to be streamed online. People can watch everything and it can be very vibrant, right?
+
+You can have dissenting views. You can have economists and academics standing up and saying, I think this and the next person comes along and says, they don't quite say rubbish. It's different.
+
+But in the politest of terms, there is good argument there.
+
+[Philip R. Lane] (15:43 - 16:34)
+Absolutely. I mean, that's central banking. In the end, there's a very strong intellectual debate behind it.
+
+And I suppose the democratization of that process through the streaming. So this has always happened, but maybe not in an accessible way. So now that the stream is available, I would encourage students, people with a general interest to log on if they have the time.
+
+Maybe within that, especially advertise on the Tuesday afternoon, there's the session with the not only President Lagarde, but the heads of the Federal Reserve, the Bank of England, the Bank of Japan and the Bank of Korea. So you have everyone together, moderated discussion. And I'm sure that's going to be a very lively session.
+
+[Paul Gordon] (16:34 - 16:53)
+Yeah, it's going to be very heavyweight. And but interesting as well. And all the details will be in our show notes.
+
+So listeners, please have a look at that and please do tune in for the Cintra Forum. Philip, thank you very much indeed for that. It's going to be fascinating.
+
+You don't get to leave straight away because we need a hot tip from you, as we do from all our guests. What have you got for us?
+
+[Philip R. Lane] (16:53 - 17:55)
+So a book I read in the last few weeks is by the Harvard professor Ken Rogoff called Our Dollar, Your Problem. Now, of course, there's a lot about the dollar in it. It's really a very interesting multi-decade review of the international monetary system.
+
+There's a lot about the euro. There's a lot about the evolving role of Japan in the global financial system and also the rise of China. And let me also say, compared to a lot of books, because Ken Rogoff, his whole career has been very active in the 80s onwards, not just as an academic, but he was the former chief economist of the International Monetary Fund.
+
+And it's an interesting book in the sense not only is a kind of analytical, but there's a lot of commentary from the fact he was in the room for a lot of very important events over those years. And so it's a really, for a very broad audience, I think, if you really want to get a sense of why does the world look like it does from a monetary point of view, this is a very successful book.
+
+[Paul Gordon] (17:56 - 18:31)
+OK, that's Ken Rogoff, Our Dollar, Your Problem. Should be a good read. Philip, thank you very much indeed for joining us once again.
+
+For listeners, as I know, you can find the links not just to the show notes about the ECB forum, also Philip's hot tip, also the latest monetary policy. That's all there on our website. And this brings us to the end of this episode of the ECB podcast.
+
+You've been listening to the ECB podcast. I'm Paul Gordon. I've been with Philip Layne, our chief economist.
+
+If you like what you've heard, please subscribe, leave us a review. And in the spirit of Europe, I'd like to end in Romanian and say, Until next time. Thanks for listening.
+
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+

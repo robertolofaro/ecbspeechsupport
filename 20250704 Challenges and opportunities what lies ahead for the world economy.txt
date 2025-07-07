@@ -1,0 +1,164 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+(0:03 - 0:20)
+I'm at the ECB forum on central banking in Sintra, Portugal. Here in scorching hot temperatures, top central bankers and academics are discussing how policymakers can adapt to change in pursuit of their goal, mostly keeping prices stable. And that change has been somewhat dramatic lately.
+
+(0:20 - 0:39)
+Just over a week ago, the world held its breath as we faced an escalating conflict in the Middle East. U.S. tariff threats hang in the air with trade fragmentation jeopardizing the interconnected global economy. Some people are even questioning the role of the dollar as the world's most important reserve currency, a position it's held for a lifetime.
+
+(0:40 - 1:05)
+You're listening to the ECB podcast, bringing you insights into the world of economics and central banking. My name is Paul Gordon. Now in our most recent episode, we listened to ECB President Christine Lagarde talk about change and its economic impact with the leaders of the central banks of Japan, South Korea, the U.K. and the U.S. Today in the third special episode of our Sintra podcast series, I sat down with Silvana Tenerhero.
+
+(1:05 - 1:28)
+Now, Silvana is a former policymaker at the Bank of England and is currently a professor at the London School of Economics. Her resume includes leading roles at the Center for Economic Policy Research and the European Economic Association. She's won multiple prizes, worked at the Boston Fed and the Bank of Mauritius, and got her PhD at Harvard, where her supervisors were Robert Barrow, Alberto Alessina and Ken Rogoff.
+
+(1:28 - 1:32)
+Silvana, welcome to the podcast. Hello, Paul. Thank you for having me.
+
+(1:32 - 1:42)
+It's a pleasure to be here. Now, it's been hard to believe, really, but only three months since the U.S. Liberation Day tariff announcement. Since then, we've had constant whiplash.
+
+(1:42 - 1:57)
+We've had policy threats, policy threat withdrawals, deals, non-deals. We're waiting to see how this pans out. How do you see the macroeconomic picture at the moment? Well, as you say, there's a lot going on at the moment in economics and in politics.
+
+(1:57 - 2:18)
+And I see three developments going on in parallel. The first one is the decision of the U.S. administration to impose bilateral tariffs on its trading partners. This will affect global activity in an adverse way, will have differential effects on price pressures across different countries.
+
+(2:20 - 3:01)
+The second development is the process of fragmentation that we haven't seen since the global financial crisis, and it spiked up during the pandemic and the Russian invasion of Ukraine. And that process is ongoing, and it doesn't necessarily entail a fall in trade openness, but a switch from the most efficient suppliers to the friendly or geopolitically aligned countries. And that switch entails some extra costs and will manifest itself and has increased import costs for many countries.
+
+(3:01 - 3:29)
+And the third phenomenon or development is the armed conflict in different parts of the world, again, related to geopolitics, including the Russian invasion of Ukraine and the conflict in the Middle East. So all of this is going in parallel, some are related, but distinct phenomena. And they are all spilling over to economies that are not necessarily part of those decisions.
+
+(3:29 - 3:53)
+So there's all this uncertainty, of course, but with uncertain effects, right? I mean, it's hard to pass whether tariffs are inflationary or deflationary, partly depends on who you are as well, and so on. So let's talk about it. So if we think about the US, which is a country imposing the tariffs, eventually those tariffs will impact prices by increasing inflation in the US.
+
+(3:54 - 4:15)
+So that effect might not be huge, because imports in the US are only 10% of GDP. So the effect might be moderate, and the pass-through might take a few months or even years. So it might not be felt very strongly by consumers or seen in the CPI basket.
+
+(4:16 - 4:38)
+But I think it will be sufficient to delay the decision to cut rates by the Federal Reserve. So it will be consequential for US consumers. For those in other countries, say Europe or Asia, this effect will be disinflationary.
+
+(4:39 - 5:11)
+The tariffs imply that the demand for the exports from those countries will fall, and the inflationary pressure will be lower. If you take the perspective of a European country, there will also be an excess supply of products from Asia or other origins, which will need to find a new destination given the higher trade barriers in the US. So for those reasons, I think the pressures for Europe and other countries will tend to be disinflationary.
+
+(5:11 - 5:31)
+And yes, there is uncertainty, but I think directionally, economics can tell us where prices will be moving in different countries. And obviously, central banks will need to act according to those pressures. And the way the central banks act, again, it depends from country to country.
+
+(5:31 - 5:39)
+But in some cases, you may have inflationary pressures, but slower growth. That's a bit of a quandary. So I think the lower growth will be a common denominator.
+
+(5:39 - 6:15)
+Tariffs, additional non-tariff barriers, will imply lower efficiency and lower economic activity, all else equal. What will be different across the country will be those inflationary pressures. In the US, those will be positive inflationary pressures, putting increasing prices in the US, whereas for Europe and countries in Asia or Latin America, these pressures will be disinflationary because the demand for those products will fall and there will be excess supply from other countries.
+
+(6:15 - 6:44)
+Does that make the monetary policy response relatively easy to understand? Rate cuts, there's inflation that's above target, sorry, rate hikes, inflation's above target, I apologise, and rate cuts. If that was the only thing going on in the world, the answer is yes. I mean, in response to those pressures, you know, all else equal countries will have, I mean, in Europe or Asia, will have to have a looser monetary policy, all else equal.
+
+(6:44 - 6:59)
+But of course, a lot of things are changing. In Europe, we might see a big increase in military and infrastructure spending, which will put upward pressures on inflation in coming years. So there is a question of timing.
+
+(7:00 - 7:36)
+In the US, again, I mean, as I said, this will be putting upward pressures on inflation, but there are other developments that might contribute to lower pressures. And one big element there is uncertainty, because all these policy changes are coming with a lot of uncertainty and uncertainty tends to delay investment decisions. And those delays or postponements means that there's lower activity, basically, they slow down the economy and can themselves have these inflationary pressures.
+
+(7:37 - 7:46)
+OK, so we've got these series of shocks. I mean, as you say, some of them are military, some of them are trade shocks. It makes the environment very uncertain.
+
+(7:46 - 8:17)
+But of course, shocks are not new for the world economy. I mean, the 70s oil shocks, for example, there have been war shocks in the past. I mean, what is your view? What lessons have we learned from history which are applicable today? One big lesson for central banks is that having independent central banks with a clear monetary policy framework and numerical targets for inflation is incredibly helpful to guide policy and return inflation to target in the face of these shocks.
+
+(8:18 - 8:36)
+So that has been very important. Now, if we think about what happened in the past few years, we've had a shock as large as the 70s. The increase in energy prices was at least as large as what we saw with the oil crisis in the 70s.
+
+(8:36 - 8:51)
+And this coming from another tail event, the COVID pandemic. And so this enormous shock has tested the framework and the framework works. So that's one big lesson.
+
+(8:51 - 9:34)
+And I think it's a very positive development that the ECB is keeping that framework to face those shocks. But I think what's very important to understand, and this is the message more for governments, is that the role of central banks is to return inflation to target in the face of the shocks, but they cannot really address the real impact of those shocks on the economies. And so it's the role of governments to come up with a macro-proof strategy to prepare, mitigate and cope with these large shocks that we might face even more frequently as we move into a more uncertain world with climate change, with geopolitical conflict and so on.
+
+(9:34 - 9:56)
+So the question is, or the challenge now, is for governments to really prepare for these shocks. And I think a strategy to prepare for those should take at least three legs. One is investment in technological diversification, particularly in those technologies or inputs that are hard to substitute.
+
+(9:56 - 10:10)
+And I'm talking about critical inputs, rare earths and so on. So the country needs to invest in different sources of technology, different sources of energy. Second is more diversification across trading partners.
+
+(10:11 - 11:33)
+So higher integration between or among geopolitically aligned countries that have lower geopolitical risks. And this is important because the solution to these shocks is not really closing the economy and reshoring, because that exposes us to domestic shocks and we have big floods or big developments at home. We need to diversify our buyers and suppliers to be ready to cope with this domestic shock. 
+
+So diversification across partners is also important. And the third one, which is again thinking about the parallels with the global financial crisis, we need to build buffers for those critical inputs and perhaps countries need to start thinking more seriously about building inventories for energy, water, food or whatever is the critical input or element in the economy that we might be at risk. There is a new uncertainty as well, one we haven't seen for a very long time, which is uncertainty to a greater or lesser extent, depending on your view, over the role of the world's reserve currency, the dollar currently at the moment.
+
+(11:33 - 11:46)
+I mean, you've done research on this. You published a joint paper earlier this year with Michael Motley on dollar dominance and the transmission of monetary policy. So it does link it to monetary policy.
+
+(11:46 - 12:05)
+So I just want to take a little look at that paper, but let's break it down. First of all, to you, what is a dominant for our listeners? What is a dominant currency? What does that mean? OK, when people talk about dominant currency, they typically mean three things. One is that that currency plays a prominent role in international trade transactions.
+
+(12:06 - 12:29)
+So to give you an example, even though trade with the U.S. is about 10 percent of global trade flows, more than 50 percent of international trade transactions are invoiced in U.S. dollars. Second, the dollar plays an outsized role in in central banks' foreign reserves. So it's the main currency in foreign reserves.
+
+(12:29 - 12:54)
+And furthermore, this would be the third, it plays a big role in financial markets, in the issuance of securities. So people have addressed these three angles when referring to the dominance of the dollar in international markets. OK, and your paper looked at the dollar's dominant role in international trade and the impact on monetary policy.
+
+(12:54 - 13:35)
+In fact, for the exporting countries, for example, if they're exporting dollar-based goods, does it make monetary policy redundant? I think this is the question you asked at the start of your paper. There is a view that when countries use the dollar as the main currency of invoicing, that mutes the role of flexible exchange rates as automatic stabilizers and renders monetary policy less effective. So we address this point and we argue that that's not the case, that the transmission of monetary policy works very well when the dollar plays the role of vehicle currency.
+
+(13:36 - 14:25)
+And just to be very concrete, one key aspect to keep in mind is that when countries or exporters choose the dollar, it typically is because the product is sold in very competitive markets and the prices of those products tend to be very flexible. So think to be very concrete and perhaps go to the extreme that you are a commodity exporter, you are a Latin American country exporting wheat or coffee, for example. What happens if the central bank cuts interest rates and the currency, the local currency depreciates? Well, when that happens, typically the costs in terms of dollars falls.
+
+(14:25 - 14:44)
+That's what the depreciation does. The cost in terms of wages or rental space falls when expressing dollar terms. And for an exporter of commodities, that means that costs fall, margins increase and they can sell at a much bigger margin.
+
+(14:44 - 15:02)
+So the quantity sold expands. And that's a typical mechanism for the transmission of monetary policy that we've always known and we've always had in mind. And that works indeed very well.
+
+(15:02 - 15:36)
+We see that when countries depreciate their currency, there is an expansion in activity and much of that is driven by exports. And this is why, incidentally, most exporting firms love depreciations. Now, there was a view that was very much coming from the education perspective that if the prices were invoicing dollars and they were sticky, then we wouldn't see the expansion in quantities and exports in particular.
+
+(15:37 - 16:39)
+And that's the part that we challenge in our work, both with empirics, but also with theory, because what we say is those prices are not sticky. They might not move in response to depreciation, but that's not because there's a nominal friction. The reason why they don't move is that these countries are price takers in competitive markets. 
+
+They sell commodities or commodity-like products. So what we do in our work is show that when there is a depreciation or a monetary policy expansion in emerging and developing countries, but also in some advanced countries that sell goods in very competitive markets like Australia or Canada, we see big expansions in exports and overall activity in response to these cuts in interest rates that lead to depreciation. It's an interesting paper, and I think we'll link to it in the show notes for our readers who want to get more out of that.
+
+(16:39 - 17:11)
+Let's step back and take a big picture look, though, which is that international reserve currencies or dominant currencies do sometimes change. Sterling, pound sterling switched to the dollar many decades ago. I'm not going to ask you to predict whether it's going to happen to the dollar this time. 
+
+Nobody really knows. But what kind of signals are you looking at about whether we are at a turning point? More than a turning point, I think we've seen already a slow movement away from the dollar. It has been happening slowly and gradually.
+
+(17:12 - 18:00)
+We've seen perhaps an acceleration of that more recently with the Trump administration. And I think in a context of uncertainty, when much of that uncertainty emanates from U.S. policy, it's very reasonable to see this rebalancing of portfolios away from the country whose riskiness has changed, and that's the U.S. So I don't expect the U.S. to necessarily lose its dominance in global markets and financial transactions. But definitely, I would expect to see a rebalancing of those portfolios and a move away from the dollar without necessarily the U.S. losing its big weight.
+
+(18:01 - 18:19)
+But yeah, it's a natural move, given the riskiness that is stemming from U.S. policy at the moment. OK. One of the questions that was asked at the ECB Forum's policy panel to all the central bankers was, what keeps you awake at night? I'm going to change that a little bit around at the moment.
+
+(18:20 - 18:43)
+Do you still sleep well at night or does anything keep you awake that makes you worry about the world economy? I think there are many things that should keep us all awake at night. I mean, again, we need to think about our exposure to different shocks. And we're very exposed to rare earths in China, cobalt in Congo.
+
+(18:43 - 19:02)
+And we need to think about what will happen to our economies if there is a sudden shortage of, you know, those supplies. So that's something that governments have to think about. And more broadly, I mean, they should be thinking about energy and water and so on.
+
+(19:05 - 19:32)
+AI is a big challenge because now it's going completely unregulated and it has the potential to displace many workers. And I don't think we have the infrastructure and the, you know, sufficient capacity to deal with big displacements of people. And that's something that should, again, be worrying governments.
+
+(19:35 - 20:02)
+And a third would be just more on the financial domain, stablecoins and, you know, what's happening with digital money, because that's a very risky business that might lead to a financial crisis. But, you know, if I think about all three, the one that's worried me the most is AI. OK. 
+
+All right. Silvana, thank you very much indeed. It's been very insightful.
+
+(20:03 - 20:18)
+Before you go, like all of our guests, we'd like to get a hot tip from you for our listeners. What do you think? I would recommend a very nice movie that I saw recently, which brings me back home. I grew up in Latin America in the 70s and 80s.
+
+(20:19 - 20:44)
+The movie is I'm Still Here. I think it's a sharp reminder that we take things for granted sometimes, but we really need to be vigilant and courageous to speak up because we don't want to lose the things that we really value or hold dear in advanced economies. And sometimes I think we are very complacent.
+
+(20:44 - 20:48)
+This was a very well-received movie. It's a great tip. Thank you very much indeed.
+
+(20:48 - 20:57)
+This is Silvana Tenreiro from the London School of Economics and former Bank of England policymaker. Thank you very much indeed for your time. Thank you, Paul.
+
+(20:59 - 21:11)
+You've been listening to the ECB podcast with Paul Gordon. If you like what you've heard, please subscribe, leave us a review. And in the spirit of Europe and because we're in Portugal, I'm going to make a terrible attempt to end in Portuguese and say, até para a semana.
+
+(21:12 - 21:13)
+See you next time.
+
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)

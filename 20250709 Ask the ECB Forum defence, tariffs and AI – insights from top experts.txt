@@ -1,0 +1,174 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+(0:02 - 0:36)
+Last week, top policymakers and academics gathered in Sintra, Portugal, and they discussed how central banks around the world can adapt to a changing geopolitical and economic environment and how they can make sure that they are well-equipped to keep prices stable. We used the opportunity and we took your questions and sent the podcast team on a mission around the conference venue to find the best experts to answer them. You're listening to the ECB podcast, bringing you insights into the world of economics and central banking.
+
+(0:37 - 1:01)
+My name is Stefania Secola. In this last episode of our special Sintra series from the ECB Forum on Central Banking, we will answer your questions on tariffs, inflation, the economy and artificial intelligence. Before we kick it off, just a quick reminder, we always want to hear from you, our listeners, what is it that you like or don't like about the podcast.
+
+(1:02 - 1:20)
+What is your favourite episode? Which topics would you like to hear more about? Let us know in the comments below or send a message to the ECB Instagram account and help us shape the podcast going forward. And don't forget to subscribe, of course. Now, let's jump into it.
+
+(1:21 - 1:29)
+The first question comes from Alessandro in Italy. And it's about the impact of defence spending. Let's hear from him.
+
+(1:30 - 1:47)
+Hi, I'm Alessandro Sardo. I'm from Italy. And my question is, considering the recent geopolitical situation that the United States wants to, is urging the European Union and its members to increase the defence spending.
+
+(1:48 - 2:16)
+And I'd like to know what the European Central Bank's view is on this because it could affect other focuses like maybe green energy and digital infrastructure. That's a very timely question, given that NATO countries have just agreed to boost defence spending to 5% of GDP. Before we get to the ECB perspective, let's zoom out a bit and take a look at the second part of your question.
+
+(2:17 - 2:35)
+The podcast team spoke to Beata Jaworczyk, who's the chief economist of the European Bank for Reconstructions and Development. Let's hear what she had to say. Security in Europe will not be achieved just by buying more weapons and increasing the size of armies.
+
+(2:36 - 2:55)
+What is also needed is energy security. And that means diversification of energy sources, including massive investment in renewables. Europe also needs to be resilient to cyber attacks, and that means investment in cyber security.
+
+(2:55 - 3:28)
+Finally, Europe needs to have infrastructure that is able to withstand more and more frequently occurring weather shocks. And that means additional investment in ports, roads and rails. Whether increased defence expenditure will crowd out investment in other areas, such as digital or green, and how investment in defence will impact economies more generally, will depend on the choices made by policymakers.
+
+(3:29 - 3:59)
+And policymakers are facing three trade-offs here. First, they need to decide how much of the spending allocated into core defence versus other aspects of resilience, such as green or digital or infrastructure. Second, they need to decide how much spending they want to make in Europe versus buying the best available system.
+
+(4:00 - 4:25)
+There is a trade-off here. And third, they need to decide between buying the best defence systems available today versus developing the systems of the future. And this trade-off is particularly important because developing the systems of the future means huge investment and R&D, and that's Europe's best chance of boosting its competitiveness.
+
+(4:26 - 4:51)
+So, the decisions made today will impact not only the ability of Europe to defend itself, but also its competitiveness in the decades to come. So, there may be trade-offs, but there are also important overlaps that should not be overlooked. In the end, it depends on how governments decide to spend the resources that are being allocated to defence.
+
+(4:51 - 5:09)
+Now, let's take a closer look at the ECB's perspective. First off, we continuously assess and monitor the impact of rising government investment in defence and infrastructure on economic growth and inflation. For now, the assessment says that these investments could stimulate growth.
+
+(5:10 - 5:21)
+On the other hand, they could also raise inflation over the medium term. And this is, of course, something that is very important for us. So, that's certainly something to keep on our radar.
+
+(5:22 - 5:39)
+Another aspect that we pay very close attention to is the impact on government finances. John Fell, who's a regular guest on our podcast and works on financial stability, spoke about this in the ECB podcast in May this year. So, this is a great question.
+
+(5:40 - 5:58)
+And the concern is that pressure to raise defence spending is coming at a time when there were already concerns about sovereign debt sustainability. And the pressure is also coming at a time when governments have many other structural challenges to tackle. So, climate change, digitalisation, ageing populations.
+
+(5:58 - 6:15)
+So, coming on top of all of that, whether higher defence spending leads to strains on public finances very much depends on whether it supports growth or not. So, very much something to keep on our radar. And there's more.
+
+(6:15 - 6:39)
+At a recent discussion in Berlin, President Christine Lagarde pointed out that such additional spending would need a European perspective and shouldn't be just a series of national projects. Let's hear the President. There has to be enough commonality, enough coordination and strategic development selected together.
+
+(6:39 - 7:15)
+Because otherwise we will end up with X design of tanks, drones, infrastructure that will not properly coordinate, for instance, in the energy grid, as was the case in railroad. No, but I do have in my speech the reference to the fact that when there is an undeniable common good, economics would suggest that this common good be financed jointly by those who will ultimately benefit from the common good. And it's pretty obvious that defence comes as a priority.
+
+(7:15 - 7:31)
+Alessandro, I hope this answers your question. And the next question comes from Sandrine from France. Hello, I have a question concerning the political situation with President Trump's threats of tariffs and so on.
+
+(7:32 - 8:06)
+How does it affect the ECB and how can the ECB have a role to play now? Let's start with the broader economic impact of tariffs first. The podcast team spoke to Beatriz Veda de Mauro, who is the president of the Center for Economic Policy Research and has just published a preliminary assessment of the economic consequences of the second Trump administration, together with over 50 other experts. We'll link this, of course, in the show notes.
+
+(8:07 - 8:37)
+And now over to Beatriz. Trump and tariffs and Europe and the ECB, there are several levels on which this should be regarded and analysed. On the highest level, higher tariffs, unilateral tariffs from the US on Europe, just means simply a demand shock, meaning that lower exports, which will tend to lower prices, will also tend to lower growth.
+
+(8:38 - 9:09)
+And the ECB could respond with that by being more expansionary. But the effect is limited by the fact that the bilateral trade between Europe and the US is not huge compared with everything else going on. So the deeper level is that there are reactions, which also concern the rest of the world, and there may be a trade war, and then the analysis may be more complicated or will be more complicated.
+
+(9:09 - 9:35)
+And at yet a deeper level, the uncertainty around the way these tariffs are being implemented is maybe at the end the most important factor. There is a very large risk, and the risk can be in both sides, especially since they are being implemented in quite an erratic and unpredictable way. So it is a man-made shock, which is constantly hitting and there are maybe more coming.
+
+(9:36 - 9:51)
+So at that level, that's where it's most difficult, both for economic actors and for central banks to deal with this. It just means higher volatility. Prices can be higher or lower.
+
+(9:52 - 10:22)
+And the ECB has just announced a new monetary policy strategy, which is supposed to help deal and also explain how they will deal if there are extreme deviations, both to higher inflation and to lower inflation. That is because the present world and the future world, these kinds of shocks will be more frequent, and the uncertainty around them is higher. And then there is a last level, which goes beyond trade.
+
+(10:23 - 10:52)
+These shocks are not limited to trade, or put differently, what is now happening in the world economy may also have financial stability consequences. I'm not predicting another global financial crisis, but we still have the recent memory of how large the consequences of financial crisis can be. So there are several levels at which the ECB has to be very focused on what is coming out of the US right now.
+
+(10:52 - 11:11)
+The impact of tariffs and the outcome of the negotiations between the EU and the US are of course high on our agenda, and we closely monitor their impact on the European economy and inflation. But as Beatriz said, exactly how this will play out remains to be seen. But there is also another aspect to it.
+
+(11:12 - 11:49)
+We are not only focused on the risks and the challenges, but also on the opportunities, one of which is that it might be a chance to strengthen the role of the euro, as President Christine Lagarde laid out at our latest monetary policy press conference. And my conclusion is that there is an opportunity that is opening now in order to strengthen the role of the euro as an international currency, as to take it further towards possibly the international reserve currency of choice. But my conclusion is that it is not going to be granted to us.
+
+(11:49 - 12:52)
+It should not be taken as a given, and it will require in particular that Member States, the Commission, the European Council make very substantive decisions that will have to do with consolidating the economic and geopolitical role of Europe, that will simplify, streamline and develop the role of the Capital Market Union in particular, the Saving and Investment Union, if you will, but particularly the Capital Market Union. And we'll have to continue to sustain the effort of making Europe a place where the rule of law is respected, where a contract is a contract, so that there is certainty on the part of the investors, of the economic actors, that Europe is actually a reliable place of business. So I hope this answers your question Sandrine, and if not, reach out to us.
+
+(12:52 - 13:17)
+We talked a lot about geopolitics and developments in the world economy, but now let's bring it back to Europe and what the ECB is responsible for. We take care of price stability in the 20 countries that use the euro, but every single country has its own economic and political situation, of course. Antonio from Portugal and Sergio from Spain asked us questions on exactly that.
+
+(13:17 - 14:12)
+My name is Antonio Campello, I'm from Portugal, and my question is, how does the European Central Bank balance its policies to avoid negatively impacting other European economies? Does the ECB prioritize any particular economy over the others? I'm Sergio, I'm from Spain, and I was wondering, how does the ECB make sure that the monetary policy that they create actually benefits also smaller countries, such as, for instance, Slovenia, and not just bigger countries, as I guess that smaller countries tend to be the ones that are the most forgotten? As Sergio mentioned Slovenia, the podcast team met with Primož Dolenc, the acting governor of the Central Bank of Slovenia. He is, of course, also one of the 26 members of the ECB's governing council, which is responsible for the ECB's monetary policy. We met him here in Sintra.
+
+(14:14 - 14:40)
+So actually you posed two comprehensive questions, and I will try to answer them both at once. So, since its foundation, the ECB remained firmly committed to its mandate, and this is maintaining price stability in the medium term across the entire euro area. And this is our main guiding principle, as simple as that.
+
+(14:41 - 15:07)
+So our job is simple in terms of mandate, but not simple in terms of delivering the mandate, as you know. So we do not tailor our monetary policy to individual national economies, that's one thing, or target national inflationary rates. So our decisions are always based on the needs of the euro area as a whole, and this is the main guiding principle.
+
+(15:08 - 15:34)
+So I wouldn't suggest in any way that the ECB anyhow favours one economy over the other. Moreover, members of the governing council are not national representatives, according to our regulation. They are committed to serving the interests of the euro area collectively, and so far I have not ever in my attendance in the governing council observed any kind of deviation from that.
+
+(15:35 - 16:16)
+And as regards to the discussion about small and big countries, we as a small central bank, so Bank of Slovenia, we still play an active and equal part in the conduct of monetary policy. We try to play our role in the committees, in the discussion on the ECB, and of course also in the governing council. So we fully recognise that there are different countries in eurozone, but I think that the main idea is that business cycle in euro area countries, be it big or small, is more or less the same.
+
+(16:17 - 16:42)
+So what does it mean? This means that our monetary policy can well accommodate these cycles, either in big or small countries, so in euro area as a whole. So this includes also small countries as Slovenia. But still, there might be some differences between countries, and we have other policies to address that.
+
+(16:42 - 16:57)
+For example, we have fiscal policy and we have macroprudential policy. Fiscal policy is really important. We have seen that during recent shocks, so pandemic, war in Ukraine, increase of oil prices and so on and so on.
+
+(16:57 - 17:22)
+And we have seen that well-coordinated fiscal and monetary policy is of crucial importance to keep the whole economy broader, not just national, safe and sound. And then we also have macroprudential policy. If monetary policy is, let's say, focused on price stability, then macroprudential policy is focused on financial stability or the stability of financial sector.
+
+(17:22 - 17:41)
+And this is on the national mandate. And I think that these three policies can play together pretty well if they are well-coordinated. And I think this is really important, that we bear in mind the whole euro area, not individual countries or not individual nations.
+
+(17:41 - 18:06)
+And with this, we can ensure that benefits of our decisions are shared equally across Europe. So there's a clear mandate and the expectations that the members of the Governing Council, which includes the leaders of central banks of smaller and bigger countries, decide on what's best for the whole of euro area and not one country alone, of course. I hope this answers your questions, Antonio and Sergio.
+
+(18:07 - 18:22)
+Last but not least, let's have a look into the future. Artificial intelligence has been a game changer globally, already in many aspects. It has the potential to change the way we work, increase productivity, and make us generally more efficient.
+
+(18:23 - 18:35)
+But as usual, with every innovation, there are opportunities, but there are also challenges and risks. Ann-Kathrin from Germany would like to know more about it. Okay, so my name is Ann-Kathrin.
+
+(18:35 - 18:52)
+I'm a student here in Frankfurt. And I want to ask if you see AI as a chance or risk for the financial future. To answer the question, the podcast team spoke to Philippe Aguillon, who's a professor at the Collège de France in SEAD and the London School of Economics.
+
+(18:53 - 19:09)
+Here is his response. I think the opportunities of AI is that AI has a growth potential. And why does AI has growth potential? Because it automates tasks, both in the production of goods and services, in the production of ideas.
+
+(19:10 - 19:18)
+It makes ideas easier to find. It improves innovation technology. So for those reasons, AI has a big growth potential.
+
+(19:19 - 19:38)
+Now it all depends on the institutions we put in place to either harness or hamper the power of AI. If we have inappropriate competition policies, you see some large firms can take advantage of AI to more than ever prevent new firms from coming in. And that would be bad.
+
+(19:39 - 20:07)
+You need AI to foster new entry, new innovation. And you don't want AI to be monopolized by strong incumbents that would make it harder for new firms to come in. If we have these monopolies and if they can successfully, you know, expand and prevent new firms, then like for the IT revolution that started to produce growth, it will end up harming growth.
+
+(20:07 - 20:13)
+So that's the issue. And so I'm talking about the cloud. The cloud is dominated by three large firms.
+
+(20:14 - 20:26)
+I think Amazon, Microsoft, and I forgot the other, Google, I think. And the GPU is the main firm for graphic processes. So we need to really open up.
+
+(20:26 - 20:37)
+Open source is important. Avoid excessive regulation that are an entry barrier to new firms. Extend the digital market arc to the whole value chain of AI, including the cloud.
+
+(20:38 - 20:46)
+Insist on access to data. That's very important. All those things are very crucial to harness the growth potential of AI.
+
+(20:48 - 21:00)
+Clearly, AI brings both opportunities and growth, as I said before. But also risks. And education is crucial already from an early age, so that we can share the productivity benefits that AI can offer.
+
+(21:01 - 21:13)
+Anne-Catherine, I hope this was the answer you were looking for. And if you'd like to know more, we publish a whole episode of the ECB podcast on AI and the economy in April 2025. We'll link it in the show notes.
+
+(21:13 - 21:35)
+And this brings us to the end of this episode of the ECB podcast. And also to the end of our special series from the ECB Forum on Central Banking in Sintra, Portugal. To learn more about opportunities and challenges for the economy and how central banks can adapt to those challenges to keep prices stable, don't forget to listen in to the other three episodes.
+
+(21:35 - 21:47)
+And of course, check out the conference recording on YouTube. Thanks to all of you for submitting your questions and to our guest speakers for answering them. You've been listening to the ECB podcast with Stefania Secola.
+
+(21:47 - 22:01)
+If you like what you've heard, please subscribe and leave us a review. And in the spirit of Europe, and since we are here in Sintra, Portugal, I'd like to end in Portuguese and say Até a próxima! Until next time, thanks for listening.
+
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)

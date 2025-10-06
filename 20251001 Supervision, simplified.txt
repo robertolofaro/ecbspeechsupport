@@ -1,0 +1,214 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+(0:02 - 0:25)
+Digitalization and AI, geopolitical tensions, tariffs, demographic change, the climate crisis, these are just some of the forces reshaping our economy. At the center of this transformation are banks, the backbone of our financial system. They need to adapt to stay competitive and resilient to keep providing funding to businesses and people.
+
+(0:26 - 0:54)
+But they are not the only ones affected. The ECB banking supervision must also evolve to properly address emerging issues. So what is European banking supervision doing to become more efficient, effective and risk-focused? How can supervision be simplified while safeguarding the resilience we have worked so hard to build? You're listening to the ECB podcast, bringing you insights into the world of economics and central banking.
+
+(0:54 - 1:05)
+My name is Stefania Sekola. Today I'm talking to the ECB member of the supervisory board, Sharon Donnery, who's connected from Ireland with us. Sharon, welcome to the podcast.
+
+(1:06 - 1:10)
+Thanks so much for having me. It's lovely to be here. And I look forward to talking to you and your listeners today.
+
+(1:11 - 1:33)
+Sharon, can you begin by telling us how Europe's banks are doing at the moment? Maybe I'll start by just saying something about what we do here at the ECB about the banks. And of course, one of our jobs is, as you mentioned in your introduction, banking supervision. And we contribute to the safety and soundness of the European banking sector, which is, of course, very important for all of our citizens in their everyday lives.
+
+(1:33 - 1:55)
+So how is the banking sector at the moment? So I would say generally speaking, the banking sector is quite resilient. So if we look at things that we measure, so indicators of banking sector health, like levels of capital, levels of liquidity, we would see that the banks are well capitalized and have good liquidity ratios. In 2024 also, banks were quite profitable.
+
+(1:56 - 2:14)
+But we do see, I would say, some very early signs of some deterioration in asset quality. So non-performing loans, again, something that's very important that we measure, a type of credit risk, I suppose, is about 2 percent. So while that's stable overall, we do see some little pockets of vulnerability in some sectors and in some countries.
+
+(2:14 - 2:41)
+And of course, it's very important that we keep a close eye on that, particularly because of what you mentioned in the introduction about, you know, all of the changes that are going on in the economy and in the world at the moment. Now, maybe an important consideration also when you think about the health of the banking sector is how has that kind of evolved over the last number of years? So many of your listeners might remember that we had this global financial crisis just over a decade ago. It's a very challenging time for us here in Europe.
+
+(2:42 - 3:00)
+And it was, of course, also a very challenging time for the banking sector. And we had many banks that were in difficulty at that time. Many of us over the last number of years here at the ECB, the banks themselves, of course, other policymakers have all worked very hard to recover from that crisis and to build again a kind of stable banking sector.
+
+(3:00 - 3:13)
+And as I just mentioned, in terms of how the banking sector looks now. So maybe a good example of that is this point I mentioned about non-performing loans. So after the global financial crisis in Europe, there was about a trillion euro of non-performing loans.
+
+(3:13 - 3:27)
+And that has reduced now to about 300 billion. So a very significant time, which has been really very important. And I think shows, you know, the benefits that you mentioned of the resilience that we've been working so hard to build over the last decade or so.
+
+(3:28 - 3:35)
+And that's been very important in the world that we live in. We've had a lot of challenges over the last number of years. We had, of course, the pandemic, which listeners will remember.
+
+(3:35 - 4:02)
+We had the terrible Russian invasion of Ukraine and all of the uncertainty and difficulty that brought. We did have some difficulties in the banking sector in both the US and Credit Suisse. And so while I suppose European banks were not directly affected by that banking turmoil, I think it's a good reminder that you can have difficulties in the banking sector and a reminder, of course, that this resilience that you mentioned and that I mentioned previously is a really important part of what we do here at the ECB.
+
+(4:02 - 4:20)
+Absolutely. And speaking about new challenges and needing to stay agile, there are calls to simplify the supervisory and regulatory framework for European banks. So are the current rules really too complex? So I think the first thing I would say is that banking is a complex business.
+
+(4:21 - 4:40)
+OK, so when we go into our banks as bank customers or when small businesses go into their banks as bank customers, you know, you want to be able to get a good product and a good service. And we know that banks play a very important role in our economy overall. But of course, behind the scenes, maybe what we don't see as bank customers is that the banking business itself is quite complicated.
+
+(4:40 - 4:50)
+The world we live in is quite complicated. So, of course, I suppose it is fair to say that to some extent the rules are complex. But we see that in many other sectors that are highly regulated.
+
+(4:50 - 5:01)
+So if you look at sectors like pharmaceuticals, for example, where, again, you know, as the customer, we go in and we want a very straightforward service. But behind the scenes, there's a lot of complexity. Or airline safety.
+
+(5:01 - 5:08)
+Again, we want a good service as the customer. But behind the scenes, there's a lot of complexity. So I think it is true to say that there's a lot of complexity.
+
+(5:09 - 5:24)
+And of course, there are things that we can do to simplify what goes on behind the scenes. And I think that has been a big focus of our work at the ECB for the last number of years. This topic of simplification has become, let's say, more mainstream in the last couple of months.
+
+(5:24 - 5:34)
+Lots of people are talking about it. I'm sure many people in the audience have heard lots about it. But it's probably something that we've been thinking about and working on at the ECB for the last number of years.
+
+(5:35 - 5:53)
+Yeah. But does simplification actually mean deregulation? And how will you make sure important safeguards remain in place? So I suppose that word safeguards, I think it's a really good word about why we have rules in the first place for banks. So, you know, they're not designed, for example, to stifle innovation.
+
+(5:53 - 6:06)
+Some people say that sometimes, you know, that the rules are holding back the banks. That's not really what they're there for. They're really there for this safeguarding, to provide guardrails around the businesses of the banks to make sure that they remain strong and safe.
+
+(6:06 - 6:13)
+Because, of course, the banks are so important to the economy. And you're right. I think people use many different words.
+
+(6:13 - 6:21)
+Some people talk about simplification. Some people talk about efficiency, effectiveness. And of course, some people do mention the word deregulation.
+
+(6:21 - 6:36)
+I suppose for me, the difference really is that simplification is that it's about making it simpler, clearer, more transparent, more efficient, more effective. But it's not about lowering resilience. So it's not about weakening the standards.
+
+(6:36 - 6:54)
+It's not about rowing back on things, decisions that we've made in the past. It's not about, for example, lowering these capital or liquidity requirements that I mentioned that are such important benchmarks, indicators of the bank's health. Deregulation, I think, is much more about, you know, changing the rules to lower the standards.
+
+(6:55 - 7:10)
+It could lead to a weaker banking system. And of course, for us at the ECB, that will be of significant concern. So I think our focus is very much on the simplification part, maintaining those standards, but doing it in a way that is as simple as possible, but not simpler.
+
+(7:11 - 7:28)
+And doing it in a way that we make sure that we have high standards, we have a strong and stable banking system that contributes to the economy. OK, so when you say simplification, let's imagine that I have to build. I have the building instructions for a chair, a chair that I've bought, but they are very long, text only.
+
+(7:28 - 8:19)
+So could we think about simplification like helping me build the chair more quickly and with less effort? For instance, by adding pictures, shortening the instructions and make them really, really sharp. So I think a chair is actually a really good analogy, because, again, if you think about it from your point of view as someone who uses the banks or in this case uses the chair, you want something that's going to be strong and stable, that's usable, that fulfills its function well and doesn't cause you any problems. So I think it's a good analogy. 
+
+And yes, of course, there are many different ways we could design a chair. There are many different ways we could build a chair and there are many different ways we could explain the instructions in the way that you described. So I think that idea of being able to do that in as clear a way as possible, as simple as way possible, and in a way that helps you, of course, do the building of the chair in the most efficient way possible is a good example.
+
+(8:19 - 8:59)
+And that's maybe behind some of what we're thinking about at the ECB, about trying to make things clearer, simpler, more efficient, more effective. But now concretely, Sharon, what are you doing in banking supervision to simplify how you supervise banks? So I think maybe there are a couple of main things. So if you think about the job of supervision, you know, what do we do every day here at the ECB? And with all our colleagues in the Eurozone member states who are in national central banks or national supervisors, we're basically looking at the health of the banks and what are the banks doing to comply with those rules that have been put into legislation and into law? And so we do something every year that's called a health check, I guess.
+
+(9:00 - 9:14)
+We call it the supervisory review and evaluation process or SHREP for short, because, of course, we like our acronyms. But basically, it's a health check. And a couple of years ago, we had some international experts look at how we do our annual health check of the banks.
+
+(9:14 - 9:30)
+And they gave us some really good feedback, you know, about the process being really quite good and the way that we engage with the banks, et cetera. But they also gave us some recommendations about how to improve that. And some of those recommendations were exactly as we're talking about, about being more efficient.
+
+(9:31 - 10:06)
+So really looking at our processes, the time it takes us to do those health checks and how long it takes us to get feedback to the banks, the letters and requirements that we give to the banks. Are they too detailed? Are they too nitty gritty? Are we focusing on the right risks and at the right level? So we're basically doing a lot of work, I would say, to implement the findings from that report to improve our health check. And I would hope that the banks are already seeing some of the outcome of that work because already, you know, we're changing the approach to some of our letters and some of the feedback that we give to the banks.
+
+(10:06 - 10:43)
+We're also doing some more, let's say, internal work behind the scenes in the ECB about how we do our supervision every day. This is really, I would say, about our processes and process improvement. So banks have to come to us to get decisions made about particular things, who can be on their boards, you know, what level of capital that they need to hold. 
+
+We also do an exercise periodically, which again, listeners might have heard about the stress tests. And this is to see how banks would react under a sort of scenario or react under pressure. So behind the scenes, we're trying to make improvements to these internal processes.
+
+(10:44 - 10:56)
+So banks would get feedback more quickly if their case is very straightforward. So it's therefore sort of lower risk or doesn't have a high level of complication. Again, that they can go through that process more quickly.
+
+(10:56 - 11:15)
+And of course, those types of things that improve our processes are beneficial for us internally in the ECB, because it means we, you know, all of our colleagues can spend their time more efficiently. But they're also beneficial for the banks because they get feedback quicker, they get decisions quicker. And it makes the process, I suppose, overall more streamlined.
+
+(11:15 - 11:37)
+It sounds like many, many people are involved in this process, looking at each different process from a different angle. So how do you make sure that the right people are included here? So the first thing I would say is there are lots of people involved internally within the ECB and across the wider SSM. So in all our sister national competent authorities and supervisors, there's lots of people involved.
+
+(11:38 - 11:53)
+But of course, it's also important that we listen to people outside the ECB. So, you know, we've we've talked to a lot of people, whether they're banks, banking federations, academics and other external stakeholders. We also pay a lot of attention to what other supervisors are doing globally.
+
+(11:53 - 12:10)
+And we pay attention to, I suppose, international standards about how to do regulation and supervision. So we try to make sure, I think, that we have a good external perspective on the work that we're doing. And then sort of bring that in the house to make sure then that we think carefully about all of these processes.
+
+(12:11 - 12:37)
+A big part of this, of course, is IT improvements as well. You mentioned at the very beginning how digitisation is affecting the economy, how it's affecting all of us in our daily lives. And I think it's also the case that at the ECB over the last number of years, we've been trying to do a lot around technology to also help us improve our processes, how we collect data, you know, how we engage externally, improving our website and those kinds of things as well.
+
+(12:37 - 12:47)
+So I think IT and digitisation is also a big part of what we're doing. So it's a complete cultural shift of supervision, basically. And we've talked a lot about simplification and its benefits so far.
+
+(12:47 - 13:11)
+And I see it clearly makes sense not to work in that way, become more efficient, effective and risk focused. But what's in there for the banks? And of course, for the supervisors, you gave us a hint already. But even for bank customers like me or the people that are listening, what's in there for us? So I think, first of all, in terms of the banks, as you said, you know, the world of banking can be quite complicated.
+
+(13:11 - 13:38)
+And of course, you know, to some extent, regulation and supervision is a complicated business. So, yes, I think if we kind of improve how we go about doing things, then that's obviously beneficial for the banks. They get maybe quicker responses. 
+
+They get clearer responses. And so this health check that I told you about, for example, maybe it takes less time. And they get better feedback about what we think are the real material risks, let's say, that they need to focus on.
+
+(13:38 - 13:55)
+And of course, that saves them time from our point of view as supervisors. Of course, it's more efficient and that's beneficial because, you know, there are only so many of us and we have to try to be efficient in our work. But it also means that we get more focus in the banks on the issues that we think are really critical.
+
+(13:56 - 14:04)
+So the banks are really focusing on fixing things that we are really worried about. And now, last you mentioned, of course, bank customers. I think this is really important.
+
+(14:04 - 14:38)
+I said at the very beginning, you know, that's why we're here to serve the citizens of Europe. So, well, what can they expect? Well, the first thing is, I think it's all going on behind the scenes. So you don't need to worry about anything. 
+
+It's not going to change the banking services that you have. It's not going to change how you go into your bank and get whatever you need in terms of what you want. But it does mean that you can be assured that we, the supervisors, I suppose, have the time and the tools to focus on the most important risks, because that means that we can make sure that we continue to contribute to safe and sound banks.
+
+(14:38 - 14:55)
+Because, of course, as I said, that's very important for customers and also for the economy. Maybe one other thing that's very important that we didn't touch on is, of course, in the eurozone. You know, we're this coming together of many different countries, many different cultures, many different banking systems.
+
+(14:56 - 15:08)
+And we also have to some extent, even though there's been a lot of harmonisation, we still have a sort of patchwork of national rules and different member states. And that can hinder competition. It can hinder cross-border banking.
+
+(15:09 - 15:25)
+So if you're in one country and you want to bank in another or you want to have products and services in another. So I think also here at the ECB, we're very focused on the idea of banking unions. So making the banking system in the eurozone more eurozone focused.
+
+(15:25 - 15:40)
+And so, you know, we want to see more integration of banking, more integration of banking rules. And I think, of course, this is something where, again, citizens can really benefit from that. If we have more harmonisation and a more integrated banking sector.
+
+(15:40 - 15:46)
+And this idea that the listeners might have heard of a banking union. Yeah. And of course, I mean, from this perspective, benefits are clear.
+
+(15:47 - 16:19)
+But we've all spoken about simplification without necessarily touching upon the rules. So what about simplifying the rules? Can you briefly tell us about that? So the first thing to say about the rules, of course, is that here at the ECB, we don't necessarily set the rules. So many of the rules are set at European level. 
+
+So it's European legislation and directives and regulations. And in some cases, of course, some rules are still set at national level. So I suppose one very important step that we've taken is to set up a high level task force.
+
+(16:19 - 16:34)
+So a group of very senior officials from the overall euro system. That group is chaired by my colleague, Vice President de Guindos. And it has on that group myself, but also a number of governors from the central banks of the euro area.
+
+(16:34 - 16:48)
+And this group, this task force is looking at recommendations that we can make to the European Commission. And it's really important, I think, to emphasise that these are recommendations because, as I said, we don't make the rules. We aren't the legislators for Europe.
+
+(16:48 - 17:05)
+And so this group is working on the rules, looking at the rules and maybe making recommendations towards the end of this year to the European Commission. And that covers, let's say, three main themes. So regulation, the rules themselves, reporting, which is a really big area.
+
+(17:06 - 17:20)
+This is all about statistics, data, how we in the ECB and our colleagues collect data, when we collect it, who we collect it from. Is it regular? Is it ad hoc? It's a very complicated area. So we're looking at this to see other areas where it could also be simplified.
+
+(17:21 - 17:35)
+And of course, our supervision as well, because our supervision depends on the rules. So it depends on the rules that are set on a legislative basis. And this high level task force, as I said, is working on looking at all of these issues.
+
+(17:35 - 18:00)
+And we'll have a report later in the year which will go to the ECB governing council and then onward to the European Commission with recommendations for things that we think maybe need to be changed or addressed. Of course, again, I emphasize that these are the legislation, you know, it's set by somebody else. So obviously it would be up then to the European Commission and the other legislators at European level to consider those recommendations and what they want to do with those recommendations.
+
+(18:01 - 18:13)
+So what I get is really you can simplify as much of the rules allow you to simplify and not beyond that. But of course, recommendations is in your power to give. And we are heading towards the end of the podcast now, Sharon.
+
+(18:13 - 18:29)
+And at this point, we always ask our guests if they can give us a hot tip linked to the topic we're discussing today. So what do you have for us and our listeners? Well, if I'm allowed, I was going to have two hot tips. So the first one is that we're getting a lot of questions about simplification.
+
+(18:29 - 18:41)
+A lot of people are asking us about it. They're asking us about what we're doing here at the ECB. So a couple of weeks ago on our website, we put a new page or a new area of the website, which is all about this topic.
+
+(18:41 - 18:53)
+It tells you all about what we're doing, the work that we're doing, the timelines for that work, what it's going to deliver. So hopefully, if you're interested in this topic, you can go to our website and have a look. And then my other tip, I kind of mentioned it earlier.
+
+(18:54 - 19:13)
+There's a quote which is attributed to Albert Einstein, which I really like on this topic, which is as simple as possible, but not simpler. I think this is a good guide to this work that we're doing. Amazing. 
+
+And dear listeners. So the website page Sharon was referring to is going to be in our show notes. So please have a look.
+
+(19:14 - 19:26)
+And this brings us to the end of this episode. So thank you so much, Sharon, for being with us. Thanks a lot. 
+
+It's been a real pleasure. I hope the listeners enjoy the podcast. You've been listening to the ECB podcast with Stefania Sekula.
+
+(19:26 - 19:36)
+If you like what you've heard, please subscribe and leave us a review. In the spirit of Europe, I'd like to end in Polish today and say do widzenia. Until next time. 
+
+Thanks for listening.
+
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)

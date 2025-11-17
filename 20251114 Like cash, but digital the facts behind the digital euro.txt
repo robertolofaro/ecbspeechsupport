@@ -1,0 +1,267 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+(0:02 - 0:24)
+55% of Europeans now prefer to pay digitally when shopping. Between 2019 and 2024, the share of cash used at shops in the Euro area fell from 72% to 52% in terms of number of transactions and from 47% to 39% in terms of value. At the same time, digital online payments continued to increase.
+
+(0:24 - 0:53)
+What does this mean for the future of money? The European Central Bank, which is the guardian of the Euro, has for a while now been exploring the issuance of a digital Euro. Late October 25, we've moved to the new phase in the process and it's time to take a closer look once again and talk to ECB Executive Board Member Piero Cipollone who leads the work on the digital Euro. You're listening to the ECB podcast, bringing you insights into the world of economics and central banking.
+
+(0:54 - 1:09)
+My name is Stefania Secola. The digital Euro is a truly European project and you can look at it from several angles. And this is why we joined forces and I'm here today with our friends from the European Commission, Aidas Palubinska from EU Finance Podcast.
+
+(1:10 - 1:31)
+Aidas, thank you for joining us today. Thank you for having me. Aidas, you came all the way from Brussels to Frankfurt and can you explain why the digital Euro is so important for you and your audience? Well, my audience is interested in all things financial obviously and the digital Euro is something that is on everybody's mind.
+
+(1:31 - 1:48)
+And since both the ECB and the European Commission work on the digital Euro, I figured it'd be a good idea to sit down and to talk about the digital Euro together with you. Great and amazing because today we can interview together Piero Cipollone. Piero, welcome to the ECB podcast.
+
+(1:49 - 2:13)
+Thank you. You are the ECB executive board member and you chair a huge group where all the central banks of the Euro area are involved and represented and this is called the High Level Task Force on the Digital Euro. But before we go into the details of the matter, can we explain a bit so that we are all on the same page? What is the digital Euro? Yeah, thanks.
+
+(2:13 - 2:35)
+Thanks, first of all, for having me tonight. Well, the easiest way to think about the digital Euro is to think about a banknote. Today we use banknotes for most of our needs if we want to, but there is a space where we cannot use banknotes, which is when we buy things online.
+
+(2:36 - 3:22)
+This is not a marginal thing. One third of our purchases occur online, which means that with the current supply of means of payments, the public one, the cash, we cannot satisfy one fundamental needs, which is to pay for online purchases. So essentially what we are doing is extending our offering of means of payments to a new solution that cater also for these kinds of needs, which is payment online or in general, for all those needs that are not covered today with cash.
+
+(3:22 - 3:36)
+Basically, we are modernizing our effort, our supply of public money. So essentially the digital Euro is a digital form of money. If you want to think in the simplest way.
+
+(3:36 - 3:56)
+Okay, but then don't we already have it? I mean, in the sense that I have to make a conscious effort these days to put cash in my wallet because I almost never use cash for anything. I pay online. I buy my tickets, everything, you know, online, no cash use.
+
+(3:56 - 4:20)
+So wouldn't people say we already have the digital Euro? What we have is a solution to pay with the deposit that you have in your bank account. It's not the equivalent of cash, but that would not be a problem if those solutions would allow us to cover for all our needs. But let me give you an example.
+
+(4:20 - 4:38)
+There are countries where there are no domestic schemes, as we call it, where to buy milk in the morning, either you do with cash or you have to rely on non-European solution. Otherwise you cannot pay. This is a kind of paradox.
+
+(4:38 - 4:50)
+Imagine a situation like this in the US. Now, if I'm in Italy and I go, you know, I'm Italian. And when I go to the shop here, I have to use a non-European solution.
+
+(4:50 - 4:56)
+Imagine the same situation in the US. You are from New York. Your bank gives you a debit card.
+
+(4:56 - 5:12)
+Then you go to San Francisco and you go and shop and buy the coffee at Starbucks. And the cashier tells you, I'm sorry, sir, I cannot take your debit card because this has been issued by a bank in New York. This is paradoxical.
+
+(5:13 - 5:36)
+So what you are seeing is true. But what we are doing to cover our basic needs is in other ways everywhere we have to rely on solutions which are not European. This is kind of concerning for a central bank because we cater for the efficiency and the solidity of the payment system in Europe.
+
+(5:37 - 6:04)
+Okay, so how is the digital euro going to work in the future? How are we going to be making payments that are different to what we're doing now? Well, essentially the modality is the same. You know, you can pay with your phone or even with a card. The fundamental difference is that with one piece of solution, one solution, say a card or a phone, you can pay everywhere in Europe for all use cases.
+
+(6:04 - 6:13)
+Let me be explicit when I say all use cases. You can do a peer-to-peer. Today in Europe you cannot do peer-to-peer, meaning person-to-person transfer.
+
+(6:13 - 6:17)
+So you would pay me, basically. Absolutely. You can pay for cross-border payments.
+
+(6:17 - 6:27)
+You can pay with the digital euro. I mean, you can pay at the point of sale. You can pay online and you can pay offline.
+
+(6:27 - 6:49)
+Offline is very important. It means that you can pay, you know, you can exchange money by putting two devices close and this would work when there is no internet connection or even when the electricity is not. So we are, you know, without one single solution, you can cater for all your needs, which is not the case today.
+
+(6:50 - 7:24)
+There is no such a solution in Europe today. So I understand that if I pay with the digital euro, it's the same as if I pay with cash, just digitally. But would this mean that I don't, I wouldn't need any other digital form of payment like credit cards or PayPal? And would this mean that the digital euro takes away business from banks or other financial service providers? I've come to your question, but there is something that we need to say from the very beginning.
+
+(7:24 - 7:43)
+As a central bank, we are not here to dictate how people have to pay. We just need to provide means of payments that people request or they need. You might say, how do you know that people need digital euro? Well, we have been working on that for five years.
+
+(7:44 - 8:04)
+And from our interviews, from our research, we know that today, 66% of the people we interview that know about the digital euro are willing to use the digital euro. So there is a need out there that we need to cater for. You said 66%? 66, yes.
+
+(8:06 - 8:14)
+And so, having said that, people are free to choose how to pay. They can pay with cash. They can pay with credit card.
+
+(8:14 - 8:33)
+They can pay with debit card. They can, the important thing is that they are not forced to choose one because of lack of alternative, especially a lack of public money, because this is our mandate. So we need to step in and modernize the offer of our money, central bank money.
+
+(8:34 - 8:46)
+So we are not forcing anyone to pay with any solution. They are free to choose. And freedom is very important because freedom implies competition, better prices, an open market and so forth.
+
+(8:47 - 9:10)
+And talking about competition, I'm interested to understand, does this take away business from banks and other service providers? That's a very interesting question. And we definitely think that the digital euro will support private European solution. I repeat, private European solution.
+
+(9:11 - 9:28)
+This is not just a ECB idea. This is something that the banks themselves believe. And we wrote a report with the banks in which we recognize with the banks that they will benefit from the digital euro along three lines.
+
+(9:29 - 10:01)
+First, today many payments, many payments, domestic payment solution to cover all the needs of the clients, they need to co-badge with other solution. Meaning that if domestic, meaning that if the domestic solution does not allow you to pay somewhere, this alternative comes in and allow you to pay. But this alternative are really costly.
+
+(10:02 - 10:20)
+The digital euro allows you to do the same, meaning that to cover all the needs of your clients everywhere in Europe and cost much less. Actually, it doesn't cost anything to banks because we do not charge scheme fees. So it's a free co-badging.
+
+(10:20 - 10:28)
+Exactly for them. So the banks would save money on that. And therefore saving money allows them to do other things and expand their business.
+
+(10:29 - 10:53)
+Second, the digital euro will create a kind of common public infrastructure that is free for other banks, other solution to pay. It's like if today, the easiest example is the following. Imagine that a railroad company now have to provide its own infrastructure to connect two cities.
+
+(10:54 - 11:13)
+This is very costly. Tomorrow, imagine that there is a public infrastructure, so the company have just to put the train and compete with the others. That's the second advantage, meaning that the digital euro, because it's a public tender, will provide everyone has to accept it.
+
+(11:13 - 11:32)
+And to accept it, we have to define the standards, which we are. But those times that are open, everyone can use it. So any private solution that adopts the same standard automatically can serve their clients' needs throughout Europe for all the business needs.
+
+(11:33 - 11:55)
+There is a third important, very important dimension. Today, the offer we have is very limited in one dimension, conditional payments. If you think carefully, today we condition payments to one thing, right? Piero pays this person at this time, this amount.
+
+(11:55 - 12:03)
+That's it. But we can do much better than that. We can condition payments to many, many, many other instances.
+
+(12:04 - 12:23)
+The most simple is the following, right? You take a train and the train is late. If you want to have the money back or the reimbursement, you have to go, file forms, and wait. What if the payment goes through only if the train is in time? This can be that.
+
+(12:23 - 12:31)
+Conditional payment. This is not an idea of the ECB. We experimented that with 70 entities in the market last year.
+
+(12:31 - 12:58)
+And in September, we published a report on that where we saw much, much interest by the market and many, many innovative innovations that can be implemented by the banks. And this is an additional advantage that would enlarge their scope and the services that they could provide and being remunerated for that. So, the digital euro will not take away.
+
+(12:58 - 13:12)
+Actually, it will allow the European private solution to expand their business and become stronger. So, basically, free co-badging, free rail tracks, and innovation. Okay.
+
+(13:12 - 13:28)
+Okay. I'd like to switch gears here a little bit. I have a hobby, which is to look at disinformation, which isn't difficult these days because there's so much of it out there, especially because I follow Russian disinformation.
+
+(13:29 - 13:51)
+And, in fact, I've noticed that there's an awful lot of disinformation being amplified by Russia, but not just Russia. I mean, there's a lot of disinformation out there about the digital euro. One of them, which strikes me as being the one that's amplified the most, is the digital euro is going to replace cash.
+
+(13:51 - 14:04)
+The EU is going to ban cash, people. I don't believe that, obviously, but what about all that disinformation about the digital euro? Okay. Let's take this in particular.
+
+(14:06 - 14:12)
+You know, words are cheap. Facts are hard. Let me give you two facts.
+
+(14:12 - 14:33)
+First, we are investing in the new series of banknotes. Everyone that knows about it knows that we have just launched a design context for the next series of banknotes. We would not invest in new banknotes if we were thinking to withdraw banknotes in the future.
+
+(14:33 - 14:51)
+That's just what Big Brother would say. Second, we are really supportive for the package. You know, there is this package in the discussion at the Parliament and the co-legislator to support the access and the distribution of cash.
+
+(14:52 - 15:15)
+We are the most vocal supporters of this legislation, and we are the ones that are invoking for the least minimum exclusion restriction as possible. We have been very vocal about that, meaning that cash is very important for us. Myself, I wrote a blog at the beginning of August explaining exactly that.
+
+(15:15 - 15:44)
+Again, we are not here to decide how people should pay. We are here to provide means of payment, and cash is very inclusive, is easy, is good for, you know, even marginal part of the society which we really care a lot about, because for us, inclusiveness is an essential dimension of what we do. So we are not going to ban cash.
+
+(15:45 - 16:01)
+We are going to support cash. And just the two things I just mentioned are a proof that we are walking our talk. And let's talk a moment about resilience because I read a lot about concerns of the safety of our money.
+
+(16:01 - 16:35)
+And some people say, yeah, the digital euro will be the entry door for hackers to steal all our money or even worse, paralyze the payment infrastructure. So what is the real risk here and what do you do about that? From a specific resilience of the digital euro, let me say two things. Obviously, we are implementing the most sophisticated technical solution to protect the digital euro and in our infrastructure.
+
+(16:36 - 16:57)
+And let me say, we are not new to this business, right? We run very important, very important payment system which are critical for our economy. So we know a little bit about cyber resilience and cyber attack. Second, we have the offline solution.
+
+(16:57 - 17:24)
+The offline solution is very important because even if something happens, because the money is on your wallet, you can still pay. So the offline solution adds another layer of resilience. At the systemic level, we are adding one additional payment solution, which means that if the private sector, one solution goes down, you still have another one.
+
+(17:24 - 18:01)
+So the digital euro will add redundancy and resilience to the whole system because it's a robust payment system in itself, complements other payment system and in addition brings the offline solution. So to me, this is going to increase the level of resilience of the system, of the ecosystem as a whole. On this offline, I think this is one of the elements that are probably more difficult for some people to really imagine how can I use the digital euro completely offline if there is no electricity, no online access and so on.
+
+(18:02 - 18:16)
+So maybe if you have more... Well, it's simply... How can I say? I mean, technically, it's what we call near field communication. Basically, when you put together, it's like a little bit the airdrop. When you put together the telephone, money will move.
+
+(18:17 - 18:24)
+The information, money is on your phone. So money will move from one phone to the other. And this is the payment that you do.
+
+(18:25 - 18:35)
+Essentially, it's very much like airdrop when you share the information on your phone. Okay. I want to come back to another disinformation thing.
+
+(18:35 - 19:25)
+And the Big Brother thing was sort of maybe a segue into it as well. One disinformation point that's being amplified is that the digital euro is going to be a tool for central banks, for governments, and other authorities to gather data on us, on the citizens, on our payment behavior, on what we're buying, what we're doing with our money so that they could then nudge us or make us do certain things with our money that maybe we wouldn't necessarily do on our own, i.e. change our behavior. Long story short, how is our data regarding our use of the digital euro going to be kept safe? Okay.
+
+(19:25 - 19:37)
+So again, we need to distinguish two solutions. On the offline solution, when you exchange money, nobody knows anything. Yeah, nobody.
+
+(19:38 - 20:19)
+So this is as good as cash. When we go online, any digital transaction leaves traces somehow, right? So we have been thinking about that for a long time, since the very first report, because when we ran a kind of survey, we saw that privacy was the most important feature people wanted of the digital euro. So essentially what we are going to do, all the information about payments, who you are, where are you shopping, and so forth, stays with your bank, very much like today.
+
+(20:19 - 20:37)
+So the banks initiate the payments. What does the ECB do? The ECB just registers the transaction on a ledger. But to register this information on a ledger, we just keep three information.
+
+(20:38 - 20:58)
+A code that represents the payer, the amount, and a code that represents the pays. And then obviously the information about the timing, and so forth. Now, what is important to understand is that the code representing the payee and the payer cannot be linked to your identity.
+
+(20:59 - 21:24)
+There is no way that we can connect that code to your specific identity. The mapping, the correspondence between your name and the code will be kept at the level of the banks. So the ECB will see just a list of codes, one being the code of the payer, the amount, and the code of the payee.
+
+(21:24 - 21:37)
+So there is no way that we can know what you are buying, or for what reason, or who you are. We just see this list of code. But that's not enough.
+
+(21:39 - 21:55)
+We will segregate the data within the ECB by even those data that do not allow us to connect people to the code. We will segregate. We will have clear rules for who can access those data.
+
+(21:57 - 22:19)
+And to make sure that the public trusts us, we are available, we are saying that we will be open to be audited every year by the Data Protection Officer, Association of Officers. So we will say to people, come and see whether we are walking our talk and reassure the public. Third dimension.
+
+(22:20 - 22:38)
+We say we are open to the future. What do we mean by that? We mean by that the fact that technology evolves over time. So new techniques for providing an even stronger protection of our privacy are being developed by the tech.
+
+(22:39 - 22:59)
+So we want to make sure that as soon as those techniques will be available to be deployed on a system large as the digital euro, we will do it. This is a firm commitment. So we are building the internal machine in a modular way so that when these new techniques are available, we can just plug in.
+
+(22:59 - 23:10)
+So strong protection, strong technological protection, strong rule of the game, and be open for the future. I have a provocative follow-up. Sure.
+
+(23:12 - 23:38)
+And correct me if I'm wrong, and I'm often wrong. Isn't the flip side of that privacy of the digital euro the possibility for money smuggling, money laundering? Because if it's that private, we have limits on cash transactions. Are there going to be limits on digital euro transactions? Now, again, let's talk for a second about the online solution.
+
+(23:38 - 24:04)
+The IML and fighting the financing of the terrorism, this will stay as it is today because this is in the bank to do. This is a responsibility of the bank, which is today and will be there tomorrow with the digital euro. The privacy has to do with the fact that we as an ECB will not see anything, but the control will stay there as they are today.
+
+(24:04 - 24:26)
+So this is not like an unstable coin. This is something the apparatus will stay there. Obviously, for the transaction of the offline solution, I think some cap to the transaction will be there because that's exactly, you know, how they're exchanging money.
+
+(24:26 - 24:41)
+But for the offline, for the online solution, the control apparatus will stay as it is today. I understand. And at the beginning, I mentioned that we now move to the next phase of the digital euro, next and final phase, actually.
+
+(24:42 - 24:57)
+What does it mean in practice? And what are the next steps? So let me correct you on this. It's not the final. Final will be when we will issue and we will issue only if the legislation will be in place.
+
+(24:57 - 25:20)
+Okay. So this is the phase we are entering now is a really getting ready phase, meaning that we will finishing to build, actually we will build the actual infrastructure and then start to pilot. So we will assuming that it's very important.
+
+(25:20 - 25:52)
+Our working assumption now is that the legislation will be in place sometimes next year in 2026. Assuming that this is correct, we should be able to start piloting, piloting the digital euro in mid-September, 2027. What does it mean to pilot? That we will start to allow some people in a very controlled way to exchange, to make payments with the digital euro, just to make sure that the system to use it.
+
+(25:52 - 26:00)
+Although at that point is a kind of safe, it's a safe box. So no, no, no implication. It's not an open environment.
+
+(26:01 - 26:17)
+Exactly. So what they call, you know, family and friends. So we'll be piloting for almost two years and then we should be able to launch the digital euro provided the legislation is there on mid-2029.
+
+(26:17 - 26:53)
+Yeah, which is a very important point. This actually segues perfectly into almost always my last question on our podcast, which is, so when is that legislation going to be in effect? How are the other European institutions besides the ECB working on this? Could you talk about how the Commission and the European Parliament are? So the Commission, we have been working with the Commission shoulder to shoulder from the very beginning. We have a very good working relationship with the Commission.
+
+(26:53 - 27:07)
+So we have been aligned from the very beginning. We interact almost, you know, continuously. So the proposal that the Commission put forward, we really work together on that.
+
+(27:07 - 27:26)
+And so we shared most of what is written there. Since then, you know, there has been discussion both at the Council Working Party and in the Parliament. Now, at the Council Working Party, which is member states, the discussion is progressing very well.
+
+(27:28 - 27:47)
+The Danish presidency, which is the current presidency, they committed to arrive to an agreement at the Council Working Party, what they call the general approach by the end of the year. And they're working very hard to reach this point. And the work is progressing very well.
+
+(27:47 - 28:21)
+Last month, in September, we had a very important agreement on the holding limit. And this work has been speed up also by the declaration of the leaders two weeks ago on the Euro Summit, where they invite us to speed up as much as possible to complete the work. At the European Parliament, for good reason, because, you know, they had the election, they had to form a new team, the work has been, you know, delayed a little bit.
+
+(28:21 - 28:58)
+But now, finally, the rapporteur issued this proposal, which is the beginning of the process. Now, the other members of the negotiation team come with their amendments, and we hope that they can finally vote their position by, say, May next 2026, so the trial can begin in the summer of 2026. And there is a good possibility that, you know, during next year, we will have finally the legislation, as I said, which is, as I said, the assumption we are working on.
+
+(28:58 - 29:10)
+So, now, we are almost at the end of our podcast. But before we let you go, it goes fast, no? But before we let you go, I have one last question. I'm sure you know what I'm talking about.
+
+(29:10 - 29:21)
+It's our hot tip. So, what is your hot tip for our listeners today, Piero? My hot tip is stay tuned. Let me explain in a second why.
+
+(29:21 - 29:31)
+Stay tuned. Yes. I mean, we have been talking a lot about digital Europe, but that's not the only thing that ECB is doing to modernize our offering of central bank money.
+
+(29:32 - 29:58)
+You know all this discussion about DLT, tokenization, stable coins. ECB is working very hard to modernize also the way we offer central bank money in this new space in DLT. And this is very important, because DLT can provide important advancement in the way we trade, store, and...
+
+(This file is longer than 30 minutes. Go Unlimited at TurboScribe.ai to transcribe files up to 10 hours long.)

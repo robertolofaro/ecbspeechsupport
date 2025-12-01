@@ -1,0 +1,171 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+(0:03 - 0:31)
+Now, ask AI or any dictionary what stability means, and they'll typically say something like the ability of something to remain steady, balanced, or unchanged over time, even when faced with disturbances or changes. Now, look at the world economy today, and it's fair to say there's no shortage of disturbances and changes. We have trade tensions, an erratic U.S. economic policy, geopolitical issues, a potential AI bubble, and much, much more.
+
+(0:31 - 0:58)
+So how is the euro area financial system supposed to remain steady, balanced, or unchanged in such a turbulent environment? What are the risks that lie ahead? That's what I'll discuss today with John Fell, who is the Deputy Director General for Macroprudential Policy and Financial Stability here at the ECB, is one of the authors of the Financial Stability Review. You're listening to the ECB podcast, bringing you insights into the world of economics and central banking. My name is Paul Gordon.
+
+(0:59 - 1:03)
+And John, thank you for joining us once again. Thanks Paul. Thanks a lot for having me.
+
+(1:04 - 1:19)
+So the Financial Stability Review, we call the FSR. Last time we talked about this, I started with a quote by the mathematician John Alan Paulus, who said, uncertainty is the only certainty there is. Back then, there was a lot of uncertainty.
+
+(1:19 - 1:46)
+You could argue that some of that has faded. I mean, what's your take at the moment? Yeah, so I mean, if we compare with the May FSR, we were highlighting global trade policy uncertainty as a major source of risk for financial stability. Since then, we've had the US-EU tariff agreement, and that has certainly eased trade policy uncertainty.
+
+(1:47 - 2:17)
+And we've also had a milder economic impact from that trade policy uncertainty, which has led us to produce a review that is, maybe say, slightly less uneasy than last time. I mentioned a few positives, but there are a few negatives as well. Maybe if I mentioned three of them, the full impact of the tariff, the change in the tariff policy is yet to be seen, the macroeconomic impact on that.
+
+(2:17 - 2:42)
+We still have, second, the US Supreme Court is analyzing the legality of the reciprocal tariffs. And we have a decision that will come from that at the latest by June of next year. And we remain concerned about the US debt trajectory.
+
+(2:42 - 2:56)
+So they are the kind of, you know, the offsets against. But overall, as you said, uncertainty has come down. Very often, the question is posed to us whether or not we are more or less gloomy than we were last time.
+
+(2:57 - 3:18)
+FSRs have a tendency, have a bias towards perhaps gloominess. We've been experimenting with large language models, but I can just say that the sentiment has improved since last time slightly. Sources of risk and vulnerabilities for financial stability remain elevated, but we're in a slightly better place than we were last time we spoke.
+
+(3:19 - 3:46)
+So, I mean, it's an interesting sort of period in history, I would say. It's going to be a lot for people to work on in the past. I was listening to quite an interesting piece only yesterday by an economist called Tom Orlick at Bloomberg News, who was saying, what have economists got wrong about the Trump tariffs? Why have they not caused the instability, the disaster, the economic decline? And there's no clear answer.
+
+(3:46 - 4:10)
+And it could be that everything's just delayed rather than economists being wrong. But one factor in this is productivity investment or the hope that investments in AI are going to lead to greater productivity. There are others who say, oh, this investment is too much and we're going to have an AI bubble that's going to burst and we're going to cause pain.
+
+(4:10 - 4:32)
+I mean, did you look at this at all? We do mention concerns about a bubble, but we're very careful in the way that we have worded that. And it's more, we do a lot of market intelligence and it's something that we hear very often. And if you look at Google Trends, for example, AI bubble will appear very frequently.
+
+(4:33 - 4:51)
+I mean, it's almost daily in the financial press. But the reason why we're careful is because bubbles are very hard to identify. There are challenges in distinguishing legitimate growth from unsustainable price increases.
+
+(4:51 - 5:04)
+If you look back in history, many as were often, they often began with a genuine trend. So look at railroads in the 1880s in the US or electrification in the 1920s. They were both the beginning of a mania that became a bubble.
+
+(5:05 - 5:21)
+But it would have been very difficult to say for sure that it was a bubble at the beginning because it ultimately depends on expectations. What we are emphasizing a bit in this episode is stressed valuations. That's not new.
+
+(5:22 - 5:42)
+We've mentioned that before. We've also mentioned concentration in the AI industry, let's say, and circular funding between some of the firms who were at the center of this AI exuberance. And then third, narrative driven capital expenditure and leverage.
+
+(5:42 - 6:01)
+So the so-called, yeah, they have come to be known the hyperscalers. So these are Amazon, Meta, Oracle, I think as well as mentioned as a hyperscaler. Most of those firms were funding this capital expenditure out of internally generated cash flow.
+
+(6:01 - 6:22)
+But now the limits are being reached on that cash flow from the legacy businesses that all of them have. And they're starting to borrow in financial markets. And that has basically, yeah, added a little bit to concerns because when there have been bubbles in the past, the most dangerous ones are the ones where you have leverage behind it.
+
+(6:25 - 6:49)
+This AI bubble story, I mean, it seemed to start in the summer with, yeah, first of all, I think media reports that AI related expenditure have become a major contributor to US GDP growth. Some estimates put it around 2%. And then you, I mean, in your business, I mean, you can't have missed these meme graphics of complex cross investments among the big tech firms.
+
+(6:50 - 7:07)
+Goldman Sachs had one, Bloomberg had another. How the firms are becoming increasingly interlinked, how they're investing in one another and how they are, their operational linkages are becoming greater as well. So, I mean, there is a potential for amplification now because of all of this.
+
+(7:07 - 7:41)
+But on the question itself, on the bubble question, I mean, I think it ultimately boils down to adoption, whether artificial intelligence is adopted widely like a general purpose technology like railroads, where and like electrification was. And then the question of whether the future returns that those investments have, that the capital expenditure that went into building out that AI infrastructure, whether that will justify the future returns. Both of those are uncertain.
+
+(7:42 - 7:56)
+So we can never say for sure. But I mean, there are, yeah, perhaps some, let's say, symptoms that give reason to look at it a bit more closely than we did before. Yeah, the railroads, the London Underground, all of these kind of things.
+
+(7:56 - 8:06)
+Good parallels, right? Because most of those companies went bankrupt, but the infrastructure was left behind. Yes, absolutely. Back at the start of this century.
+
+(8:07 - 8:20)
+So there's this focus on AI, but it's broader than that. It's private markets generally is what you're saying here, right? This is something you've looked at in the FSR. Private credit has been mentioned in several issues now in the FSR.
+
+(8:20 - 8:33)
+I mean, and just to be clear about what we mean about private credit. So this is privately negotiated lending between a borrower and a lender that is not a bank. Private credit markets have been growing rapidly.
+
+(8:34 - 8:45)
+I mean, I think the market has globally quadrupled in the last 10 years. It's now around $1.7 trillion. And growth rates are about the order of 14%, 15% a year.
+
+(8:46 - 9:10)
+So it's growing at a rapid rate. We have some of the points that we've made around, you know, why is it a concern for financial stability? We've mentioned illiquidity and opacity. So the loans are not traded in financial markets, and it's also difficult to get information to value the claims and judge what the risks are.
+
+(9:11 - 9:33)
+Then there's also leverage and interconnectedness. And I think this is an important point, and this is where it becomes more a source of systemic risk because those non-bank lenders are borrowing, in many cases, from banks. And so if they get into trouble, then the bank that was lending to them will get into trouble ultimately.
+
+(9:34 - 9:57)
+And there have been also some questions about the adequacy of credit quality assessment, underwriting, and so on. We had a couple of examples in the U.S. Since the last episode, we had a couple of failures of firms that had private credit funding. So there was Tricolor Holdings, which was a subprime auto lender.
+
+(9:58 - 10:50)
+First Brands Group was also in the auto industry in the U.S. And that raised some concerns about, you know, how well is the credit quality assessment being done? And then, as you mentioned, it's increasingly being associated with the build-out of AI infrastructures. So a lot of these debt relationships that are building up are being, the so-called hyperscalers are taking place through private credit markets. So, I mean, we're saying close monitoring is needed, and these risks, yeah, they're going to have to be addressed through enhanced oversight and particularly improving the data quality that is available to both investors and also to authorities that are supervising, overseeing these markets.
+
+(10:51 - 11:16)
+OK. Another area where a lot of money has been flowing and a lot of talk is about the innovation, but also the risks associated with it, is stablecoins. I mean, how big a deal do you see that, and how much of a risk to the Europe in particular? So this is also an issue that we've covered in several issues of the Financial Stability Review.
+
+(11:16 - 11:35)
+I mean, I think one thing that we have been saying, although not as directly as I'm about to say it now, is that stablecoin is a misnomer. It's more a marketing slogan than it is an inherent property of those assets. So they are conditionally stable.
+
+(11:36 - 11:58)
+And we've pointed to run and liquidity risk. So, I mean, these stablecoins, they promise redemption at par. But if there's any doubt about that in the minds of people who are invested in these stablecoins, there is a possibility that they run, and then there isn't enough, that the liquidity available to redeem those investors is not there.
+
+(11:59 - 12:17)
+That can cause a problem if it spreads out into the financial system. And this is where we're becoming a little bit more concerned about the possibility of contagion and systemic risk. So you could have a stablecoin where doubts arise about its ability to redeem at par.
+
+(12:17 - 12:39)
+There's a run, and then short-term, high-quality liquid assets have to be sold, and that can have an impact, that can ricochet across financial markets. And then where concerns in the euro area are beginning to arise, I think the best term for it is operational risk. So this is a situation where you have reserves in different jurisdictions.
+
+(12:39 - 13:08)
+So you have an issuer, say a US dollar stablecoin issuer, that allocates reserves in different jurisdictions. And you might find a situation where people who are trying to redeem their assets overwhelm the reserve base, and they're unable to repay. This is kind of a new one, and it's one that we've become a bit more worried about.
+
+(13:10 - 13:32)
+I think in understanding them, one really needs to understand about the pegging mechanisms. How do they maintain that so-called stability of a conditional stability? And that really depends on confidence, and it depends on liquidity. So they will work fine if there is high confidence and high liquidity.
+
+(13:32 - 13:52)
+But if there's not, they're almost run-prone by design. I mean, there are some academic studies out there now which show that the annual run risk for some of the existing stablecoins is of the region of 3% to 4%, like 3% to 4% probability in a year of a run. That's much higher than banks.
+
+(13:53 - 14:24)
+Another reason, of course, for the concern is the rapid expansion and also the projections that we could have a global stablecoin market cap of reaching something like $2 trillion by 2028. And as there is growing interconnection with traditional finance, so that channel of the contagion and the systemic risk in particular is the one that we flag as the main concern probably for financial stability. Okay.
+
+(14:25 - 14:38)
+So with technology comes risk, if you like, because it is an interesting technology, isn't it, behind stablecoins? Absolutely. It's innovative. It's super fascinating to understand these mechanisms.
+
+(14:41 - 15:08)
+Historically, when the private sector has run into trouble, and there have been many episodes of this, there's a tendency to look to the government for bailout, if you like, or whatever it may be. When you look at Europe, you look at anywhere really these days, but certainly Europe at the moment, governments are highly indebted. The ability of a government to come to a rescue at the moment must be questionable.
+
+(15:09 - 15:33)
+Would you say that? There has been substantial progress made in bringing debt levels down since the pandemic, so that's a positive point. And we've also had flight-to-safety dynamics to do with all of the uncertainty around global trade policy, and that's compressed risk premiums. So that's brought down funding costs for most euro area sovereigns.
+
+(15:33 - 16:04)
+But to your point, how do you assess whether or not government finances are sustainable or not? I guess there's three factors that are key. One is the primary balance, revenue minus non-interest spending. The other is the growth interest rate differential, whether or not the economy is growing faster than the interest rate that is being paid on government debt.
+
+(16:04 - 16:47)
+And then the third is debt level and the risk profile, so debt level and also the funding of that debt, and who are the investors. For each of them, there are pluses and minuses, and there's no chance to go through all of this in detail. I would focus on, in particular, the increases in defense spending that are a necessary response to the geopolitical realities that we face, and that's clearly going to put substantial pressure on public borrowing and on debt ratios, and particularly in high-debt nations in the euro area.
+
+(16:48 - 17:22)
+But we've also been saying there is an opportunity here to boost economic growth too. Okay, you get the kind of the Keynesian demand effects in the short run, but in the long run, you also get where Europe has a bit missed out over several decades, the long-run supply side and the innovation channel effects, so new technologies that can lead to more high-quality, lasting growth. So, I mean, there are positives as well.
+
+(17:22 - 17:52)
+We have flagged sovereign risk as one of our top three sources of risk and vulnerability, so we're not being complacent about it. And we do say that governments should prioritize sustainable public finances and particularly think about growth-enhancing structural reforms. So, yeah, I mean, it could be choppy waters, but it could be manageable too, depending on how it's managed by authorities that are responsible for fiscal policy.
+
+(17:52 - 18:14)
+I mean, it boils down to there's good debt and there's bad debt, right? Exactly, yeah. Okay, let's get to sort of one of the core elements of the financial sector, again, especially in Europe, which is heavily bank-reliant. So, the banks, how strong are they looking? I mean, overall, we assess them as being resilient.
+
+(18:15 - 19:04)
+And, I mean, that's great because it means that we have shock absorption capacity in the core of the financial system at a time when we think the probability of adverse events is probably higher than normal, and certainly has come down, but it hasn't come down to, let's say, average levels over decades. Some of the points that are leading us to that assessment is the improved profitability of the banks, strong capital and liquidity buffers, and also, despite rising interest rates, slower than hoped for growth maybe, asset quality remains good. NPL ratios are still close, actually, to historical lows.
+
+(19:06 - 19:38)
+And I think one of the indicators that I tend to look at is the price-book ratio, the valuation of banks. Since the global financial crisis, we've had price-book ratios below 1, persistently below 1 for almost the entire time since 2008. Now, this year, for the first time since the GFC, we have the price-book ratio for the largest banks above 1. And that suggests that banks are now earning more than their cost of equity, and they are expected to continue doing so.
+
+(19:38 - 19:54)
+So, they're in a good place. If financial stress emerges, it's highly unlikely that the banking sector would be a source of amplification in the way that it has been in past crises. And that is, I think, very positive for financial stability.
+
+(19:55 - 20:12)
+That does bring us almost to the end of this episode of the ECB Podcast, but the hot tip is pending. What do you have for us? So, I tried to think about a hot tip that would fit with some of the issues that we were likely to discuss here. What we're giving prominence to in the episode.
+
+(20:13 - 20:56)
+So, Chip War by Chris Miller. And the reason I'm giving that book recommendation now is because I think it's absolutely crucial for understanding how hardware, semiconductors, etc., are going to shape the future of the whole artificial intelligence boom. But I think also it's very helpful for understanding the obstacles to Europe's strategic autonomy, and in particular, a key technology gap that Europe has right now at a time of geopolitical, geoeconomic uncertainty.
+
+(20:57 - 21:05)
+So, Chip War, well worth a read. We'll put the link to that in the show notes as well. John, thank you very much indeed for joining us today.
+
+(21:06 - 21:15)
+It's been great talking to you. For our listeners, once again, find the link to the latest edition of the FSR in the show notes. You've been listening to the ECB Podcast with Paul Gordon and with John Fell.
+
+(21:15 - 21:20)
+If you like what you've heard, please subscribe. Please leave us a review. We want to get your comments and your feedback.
+
+(21:21 - 21:30)
+And in the spirit of Europe, I'm going to end in Dutch and say, tot gereinds, until next time. Thank you very much for listening. Thank you.
+
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)

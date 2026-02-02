@@ -1,0 +1,210 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+(0:03 - 0:36)
+How much money do you spend on food every month? Groceries are one of those things we all have to shop for on a regular basis. But perhaps you've noticed a change in the cost of your morning coffee, your favourite late night chocolate bar or the New Year's Eve raclette cheese. So how are food prices developing? What has driven changes in 2025? And more importantly, what's going to happen to your grocery bill in 2026? You're listening to the ECB podcast, bringing you insights into the world of economics and central banking.
+
+(0:36 - 0:53)
+My name is Stefania Secola. To find the answers to these questions, I'm joined today by Elisabeth Villen and Givile Gekaite, who are economists here at the European Central Bank and have worked extensively on the development of food prices. Elisabeth, Givile, welcome to the ECB podcast.
+
+(0:54 - 1:02)
+Great to be here. Thanks for having us. And Givile, it seems to me like some of my favourite foods are more expensive than they were a year or two ago.
+
+(1:03 - 1:23)
+At least that's what it feels when I leave my local supermarket. Is food really getting more and more expensive? That's a good question. Experts tend to use the HICP or the Harmonized Index of Consumer Prices to track consumer price changes in the euro area over time.
+
+(1:24 - 1:47)
+If we want to understand how food prices are developing, we look at the food component of the HICP, but also includes drinks and tobacco. So this number that you call HICP also has a component, which is the food component, and adds to the overall number that's called HICP. That's correct.
+
+(1:47 - 2:09)
+It's an index that reflects the price level. And because it covers many things, it's a general price level that it measures and tracks over time. Now, when we talk about food inflation, what we actually mean is how the prices of food overall changed in the last 12 months.
+
+(2:10 - 2:30)
+So that means how the prices changed from the same months a year ago. Or in other words, how much more expensive food became since the same month in the last year. Generally speaking, food prices tend to gradually increase over longer periods of time.
+
+(2:31 - 2:50)
+However, we can also sometimes notice that they increase much faster than usual, or sometimes they even fall for shorter periods of time. Most recent situation in food inflation could be better understood if I go back a little bit first. Okay.
+
+(2:51 - 3:12)
+Food prices increased by much more and much faster than normal in the years of 2022 and 2023, as we saw also overall price changes increased by a lot in that period. Yes. Thankfully, since then, food inflation has come down significantly.
+
+(3:12 - 3:42)
+And by early 2025, we saw food inflation back to the levels between 2% and 3%, which is much lower than what it was in March 2023, when it reached the peak of over 15%. And that's the highest it ever was since the Euro started. But it hasn't been a completely smooth sailing over the year of 2025.
+
+(3:43 - 4:04)
+At the start, it looked all was good. And then spring and summer months brought higher food inflation again, and it increased over 3% in those months. Since then, it came down, which is again good news.
+
+(4:04 - 4:55)
+And the latest reading for food inflation for the month of December already tells us it's back to 2.5%. It is still somewhat above the level that we saw on average between the years of 2000 and 2019, which is 2.2%. So still somewhat elevated, but much lower than what we saw in the years of 2022 and 2023. One interesting thing is that when inflation, or in this case, food inflation, is very high, so is the attention that media tends to give to food inflation. And also people tend to notice it much more and pay much more attention to it compared to times when inflation and food inflation are low.
+
+(4:56 - 5:29)
+So last year, in 2025, we saw that while media attention and media coverage of food inflation-related news declined from the peaks that we saw in 2022, it was still quite high compared to, let's say, in 2019. And higher food price inflation last year, the bumpy roads, may be one reason why. So my feeling is that food prices are highly volatile, meaning that prices for some products go up and down quite often.
+
+(5:29 - 5:50)
+So some products are getting more expensive, but others might be getting cheaper, which is nice, of course. Elisabeth, let's take a look at this local supermarket. Can you tell us which food products were getting more expensive in 2025? And what should have we bought to save money? Yeah, that's absolutely right.
+
+(5:50 - 6:19)
+So we were seeing that the price developments were diverse across the components, across products. And so it was not inflation to all of these items. What was a bit astonishing is that since the summer of last year, the prices of a few number of items, only rows of products, for example, coffee, cacao, meat prices.
+
+(6:19 - 6:38)
+And these are items which are typically bought by everyone, right? So it's part of what people tend to buy quite often. And that's also that they notice that prices changed. And in that case, that they rose quite strongly in comparison to last year.
+
+(6:39 - 7:04)
+So if you take, for example, coffee, so you mentioned it already, everyone has his or her cup of coffee in the morning. And that's the first thing I noticed when I want to restock and buy coffee beans or capsules, that the price changed. So this was interesting to see that it was limited to a few items this year.
+
+(7:06 - 7:36)
+So in total, these examples I gave like coffee, cacao or sweets in general, speaking of chocolate and meat as well, these prices make up a very small portion of the consumer basket relatively. But they contributed to more than half of the food inflation we saw in 25. And so it was not like broad based across all the products.
+
+(7:36 - 8:09)
+And still, there are some prices of products where we see they are cheaper even than last year. So should we be a bit more healthy in 2025 and eat less cacao, less coffee and less meat and buy something else instead? It sounds like a diet suggestion. So the thing with food items is that prices are very volatile and depend on several factors which could impact those prices.
+
+(8:09 - 8:31)
+So I would refrain from giving here some tips on having nutrition, to refrain from tips on your diet. But yeah, what we also see is that prices of some items are also cheaper than last year. For example, vegetables, the price has decreased in October and November.
+
+(8:32 - 8:55)
+And also butter, the price is much cheaper than last year of the same month. So this is why food prices can feel also very volatile because they change quite often. And some products change differently than others.
+
+(8:55 - 9:31)
+And yeah, it's interesting to look then at the overall food basket and to see what is currently driving the overall developments. So then this begs the question, why are some products getting more expensive than others? Usually there's not one single factor which is driving the product's price. But the examples we discussed before, like cacao, coffee and meat, there we could track down at least three main drivers, I would say, which led to the price increases we observed during 2025.
+
+(9:31 - 9:46)
+So one big main driver is the commodity price of a product. And by commodities, you mean raw produce? Yes, exactly. So what the firm then uses and processes further or sells further.
+
+(9:47 - 10:01)
+And these commodity prices have increased. And it's also driven by several factors. And one big factor is weather conditions.
+
+(10:01 - 10:17)
+So what we saw here that, I mean, we are speaking of climate change. And what we see is that extreme weather events happen more often. And this weather effect impacts also the harvest and the food supply.
+
+(10:18 - 10:31)
+And yeah, that's why it can lead to a rise in the raw price of a material. And this is what we actually saw with coffee and cacao. And you mentioned that there are three factors.
+
+(10:31 - 10:46)
+So what's the third factor you had in mind? The second factor, sorry. The second factor, which is for sure important, is supply demand as always. For example, take the meat price, where we saw also an increase.
+
+(10:46 - 11:06)
+In Europe, the supply of meat, especially beef, has declined. But if consumers still want to buy beef, then the price increases or tends to rise. And so this is important, how the supply conditions match the consumer demand.
+
+(11:07 - 11:33)
+And the final factor are higher costs, which are involved in producing these products along the production chain. So not only the input price we spoke before with the commodity price, but also like wages, transport, storage costs is one example. And here we saw that wages also rose after the high inflation period.
+
+(11:34 - 12:03)
+And we see that wages do not rise as strong as we saw a few quarters ago. But still, we see they are elevated in comparison to the period we had before the inflation surge in 22 and 23. So these are costs which are also passed on possibly to the consumer, and which also keeps the food price inflation elevated.
+
+(12:03 - 12:13)
+They're a bit higher. Yeah, a bit higher. So for a product, these are always several factors which impact its price.
+
+(12:13 - 12:29)
+So it's always a combination. And depending on how much it impacts the product, that's also how we see that the prices behave differently. But looking at inflation more generally, it's not only measured by looking at food prices.
+
+(12:30 - 12:52)
+Sivile, can you tell us what's special about food price inflation? And why is it so important that we pay extra attention to it? Indeed. Consumer price inflation is measured on the basis of quite broad consumer baskets. And it covers many goods and also services that people in the country buy.
+
+(12:52 - 13:05)
+And not only what they buy, but also how much money they spend on it comparatively. All these items can be grouped into four main groups. That would be energy.
+
+(13:05 - 13:17)
+So let's say car fuels and your electricity bill. Then we have food, which is very clear, I guess, to all of us. Then we have consumer goods.
+
+(13:18 - 13:25)
+For example, books, clothing, laptops, washing machines. That could be anything. So it's really, really broad.
+
+(13:25 - 13:32)
+It's a broad basket. Yes. And then finally come services, which is the largest of the components.
+
+(13:32 - 13:47)
+And that also includes things like insurance that you pay for your car. Or could be eating out at the restaurant, going to the theater, and so on and so forth. So it's really broad.
+
+(13:47 - 13:58)
+But you're also right that food appears to have a special place in people's heart and mind. That's very true. And also stomach, no? And also stomach, indeed.
+
+(13:58 - 14:23)
+And this is true for both European countries and also non-European countries. So it's a global finding that people do pay more attention or they treat food inflation as special compared to inflation across all other items. There could be several reasons for why we do that.
+
+(14:23 - 14:48)
+And one reason is that we spend quite a bit of money out of our total budget on food. And food, of course, includes drinks and also in the HICP, it includes tobacco. So it's not only food that we eat, but also drinks.
+
+(14:48 - 15:02)
+So it is about 20% of overall European consumer budget that is being spent on food. Amazing. So it's a sizable share and that makes it very prominent to people.
+
+(15:03 - 15:17)
+The second reason is that it is a special good. So it is not very easy to substitute it with some other products if the prices are increasing by too much. So we all need to eat.
+
+(15:17 - 15:24)
+We need food to survive. And then food prices are going up. Everyone feels it.
+
+(15:25 - 15:44)
+And it's a bit different with, for example, going to a theater. If you notice that the theater ticket increased by a lot, you might just say, I will not go or I will go to a cinema instead because prices there may be increased by less. And I'm happy to still spend that money to go and see a movie.
+
+(15:45 - 16:01)
+So it's really that contributes to this very heightened attention that people give to food inflation. And finally, the frequency that we purchase food. So some people go to supermarkets weekly and we do weekly shopping.
+
+(16:02 - 16:18)
+Some people go there every day to get something. And you're more often exposed to prices and price changes. And you are much more likely to remember how we change than comparing to, for example, a trip to the ice rink.
+
+(16:18 - 16:31)
+Then maybe you have gone the last time months ago and you may not even remember how much exactly you paid for it. And you see today's price, but it doesn't tell you how much a price has changed. You don't remember.
+
+(16:32 - 16:58)
+So all these reasons compound to come to the fact that food is then very at the top of people's minds. We also see that in our consumer expectations survey by the European Central Bank. We asked the question, which items people think about, then they tell us about their beliefs about future inflation over the next year, for example.
+
+(16:58 - 17:24)
+And we found that two thirds of respondents listed food as the item that influences their inflation expectations. And this share of respondents is higher compared to some other items that we asked about. So the food is the top item listed by all respondents in the survey collectively.
+
+(17:25 - 18:16)
+We also did some other analysis and we see that, indeed, when people answer questions about future general price developments, what they believe will happen, they tend to rely more on how we think about food price changes in future compared to food, compared to price changes of other items in consumer baskets. OK, and all this means that we really should pay attention to food inflation and closely monitor it because it is an important part of inflation. It's also it also has power to influence people's thinking about overall inflation and that affects how people behave.
+
+(18:18 - 18:28)
+And this makes lots of sense. So prices for food are rising. And because people observe this quite regularly, they expect that prices for everything else will be going up as well.
+
+(18:28 - 18:56)
+So they might expect inflation to be higher than it actually is. And so having price stable for food, it's important for everyone, for consumers because it affects how much we can buy with our own money and for central banks because it affects inflation expectations. Now, is there something that can be done about rising food prices or is it something that we need to accept in a way or another? Yeah, that's a good question.
+
+(18:56 - 19:17)
+So and I would say it depends. It depends on the reason for this food price hike. So what we would distinguish is between a temporary food price shock where we see that it will vanish over time or in the very short term or more structural price developments going on.
+
+(19:17 - 19:33)
+So this would be important to disentangle. At the ECB, we aim to keep inflation stable at the medium term with our 2 percent target. And for this, we set our key interest rates to prevent that.
+
+(19:34 - 20:02)
+Also shocks, price shocks also to food prices would feed up into overall inflation. And so but not all drivers of food price inflation can be addressed by monetary policy or by setting the interest rate. So if you think of structural factors such as climate change, which we discussed before, climate change, we see a lot of extreme weather events.
+
+(20:03 - 20:18)
+Happening more often, which impact harvest, which impact the food supply. And this shows up then in the prices. So if extreme weather events are becoming more frequent, these effects cannot be solved by interest rates alone.
+
+(20:18 - 20:44)
+So what I mean is that some food prices might ease in the short term and some food price increases might also require long term policies. And so it's important to disentangle this temporary versus structural effects so that we don't, as a policymaker, overreact to short term noise in the inflation data. OK, got it.
+
+(20:46 - 21:25)
+And now looking into the future, how is food inflation expected to develop in 2026? And what will our grocery bill look like? So the latest inflation projections of the Eurosystem staff were published back in December, so are quite fresh and helpful in this context. According to the report, Euro area food inflation is expected to decline somewhat more over the next months and over the summer month, it should reach levels just above 2 percent. From there on, it should be relatively stable.
+
+(21:25 - 21:50)
+That is, food inflation rate should remain relatively stable at that level. So if we take 2026, the year as a whole, the average food inflation is then expected to be 2.4 percent, which is less than it was last year. So that is good news that while prices are expected to continue to increase, we will do so less fast.
+
+(21:51 - 22:00)
+OK, so this is the good news. Yes. So we're heading towards the end of our podcast, and at this stage, we always ask our guests for a hot tip.
+
+(22:01 - 22:31)
+Elisabeth, what do you have today for our guests? Yeah, when it comes to spending on food, I just have to remind myself every time that I should refrain from impulse purchases. So if I go shopping and then I on the fly, I grab this and that, and in the end, my bill is longer than I expected. And so that's something I have to remind myself that it's good to plan a bit ahead and also to compare prices before.
+
+(22:32 - 22:53)
+So I mean, nowadays, it's super easy, right? So even for food prices, we have price comparison websites or even apps where you can track a given product. And we all know that prices are different depending on where we buy them. The price can differ across the brands or the stores we go to.
+
+(22:53 - 23:08)
+And if we compare a bit of prices, this can make a bit of difference in terms of spending. Thank you. And Givile, what do you have for us? I have one tip that some people perhaps hopefully find useful.
+
+(23:08 - 23:27)
+So I myself personally get always overwhelmed with tomatoes. When you go into a supermarket and you see so many different packagings with different sizes, some could be 400 grams, some could be 250 grams, and they all have different prices. And most tomatoes look quite the same.
+
+(23:28 - 23:59)
+They, of course, might not taste the same, but you don't know before you try. So my tip, I guess, would be if someone doesn't do it already, these days, the price label also contains a very important information for each product, which is price per unit. So, for example, if you try to decide which tomatoes are providing you the best price, you can look at the price per one kilogram and easily compare all these different packages with all these different prices.
+
+(23:59 - 24:07)
+And that helps, at least for me. Thank you very much. And this brings us to the end of this episode.
+
+(24:07 - 24:19)
+Thank you so much, Givele and Elisabeth, for explaining so clearly all about food prices. You've been listening to the ECB podcast with Stefania Secola. If you like what you've heard, please subscribe and leave us a review.
+
+(24:19 - 24:26)
+And in the spirit of Europe, I'd like to end in Danish today and say... Until next time, thanks for listening.
+
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)

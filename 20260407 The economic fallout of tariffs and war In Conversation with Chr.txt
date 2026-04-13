@@ -1,0 +1,144 @@
+(Transcribed by TurboScribe. Go Unlimited to remove this message.)
+
+(0:03 - 2:56)
+What a year! Do you remember the 2nd of April 2025, about 12 months ago? You might, if you like these kind of things, have been watching US President Donald Trump announce his so-called Liberation Day, reciprocal tariffs on nearly every country in the world, some of which weren't even populated. Well, since then, tariffs have been raised, reduced, reversed, reinstated. The details have changed and keep changing. 
+
+The effect, though, was the same. Uncertainty for businesses, countries and people trying to plan ahead. It all seems a little bit distant, to be honest, at the moment, with the US and Israel unleashing a war against Iran that has spilled across the Gulf, effectively closed a key waterway for oil and gas and sent energy prices soaring. 
+
+But they are still there. It's another layer of uncertainty. So the question we're going to ask today is, what does all this mean for the euro area economy? You're listening to Euro Matters, the podcast by the European Central Bank, where we unpack the stories, the ideas and the decisions shaping Europe's economy. 
+
+My name is Paul Gordon and today I'm in conversation with Christiana Nickel, who is the deputy head of the ECB's economics department. Very good day to you. Thank you. 
+
+Thank you so much. Are you one of these people who is glued to the screen? Donald Trump is in the Rose Garden, a big, colourful shop with lots of numbers on it. Were you there? What? Not there, but were you watching? No, I wasn't there. 
+
+But indeed, we were watching basically together on the screen, you know, what was going on, on the 2nd of April. And yeah, this Liberation Day certainly was one of the... I mean, in a way, it was not so much a surprise. I mean, since basically the election, it was clear that something would happen on that front. 
+
+But nevertheless, the whole scenery, the way it was presented was something that certainly was a surprise and really also something where we immediately had this question on what will that mean actually for us in Europe and for the macroeconomy, of course. Yeah. I mean, I was looking at a chart the other day that showed the... I tried to measure tariff uncertainty. 
+
+It looked like a medical chart of someone having a cardiac episode. It was all over the place for the last year. I mean, tell us, recap, what does this mean? What is the impact at the moment as we understand it on the euro-economy of the tariffs as currently planned? Well, one also has to say, I mean, that basically since the 2nd of April, I mean, nothing has been kind of stable. 
+
+Everything is in flux. I mean, there's still a huge uncertainty. So, I mean, when you think about the tariffs that were originally introduced, they basically went down product by product and also included several exceptions.
+
+(2:56 - 3:38)
+And to assess basically this overall package, what we calculate is so-called effective tariff rates, which basically weigh then the tariff across these different products depending on the share of the basket of US imports from the euro area. So it's kind of a weighted basket that we have there. And what we can say is that we had sort of an effective tariff rate for Europe at around 1.5% in March 2025. 
+
+And that basically then shot up to 13% by September 2025. And this is by far the largest US tariff increase in around a century. So it was really quite remarkable.
+
+(3:39 - 4:22)
+Since then, we had the Supreme Court ruling in the US, and that basically invalidated these previously introduced tariffs. And so we basically had to recalculate again, what does that mean? I mean, we have now this 10% global US tariff, which is now legally constrained by 150 days. And for the euro area, that actually means 10.5% effective tariff rate. 
+
+So that is the average effective tariff rate. So in absolute terms, there is sort of a bit of a respite, I mean, a bit less of a tariff. But if you compare that with what we had in March 2025, it's still a big increase.
+
+(4:22 - 12:43)
+Yeah. And it's important. So you say this is the biggest level of tariffs in 100 years or so. 
+
+I mean, Donald Trump was a big fan of the tariffs that were imposed by the US in the late 19th century. And it's fair to say, isn't it, that the history of tariffs has not been good for the economy, generally speaking. Yes, indeed. 
+
+And usually what one also has to say, I mean, the way it is sold to people, it is that it's actually basically the foreigners who would pay the tax or the tariff. But in reality, what happens is actually that the people basically in the country, they are the ones that are paying for the taxes. And that I think is also for the tariffs. 
+
+And that is something that also the US Americans already feel when you look at inflation data, et cetera. So I think it's not a good idea to go back to tariffs because, I mean, in a way we've gone already as, let's say, a global society a long way of reducing tariffs across the board until Trump came around. Yes. 
+
+But so the European perspective naively could be to say, OK, well, the US has imposed tariffs, but it's US consumers who are paying it. So it's their problem. It's not our problem, but it is our problem as well, isn't it? Yes, indeed. 
+
+I mean, one thing is that indeed our, let's say, exporters and we are large, I mean, we are dependent also from a lot from exports to the US. They were hit particularly hard. But in the end, what one also has to say is maybe the European economy was not as hard hit as all of us had thought. 
+
+And that is maybe mainly because I think of three reasons. On the one hand, many firms adapted remarkably quickly. And there was a lot of front loading and sort of bringing activity basically forward so that the taxes or the tariffs would not hit completely. 
+
+Then we had also basically the monetary policy was supportive all the way long. And also we had fiscal measures like NGU that also helped in this year, 2025. So overall, the year 2025 was not as bad as we had, for example, thought when we did our March projections back in 2025, where we thought that the European economy would only grow by 0.9%. And in the end, it turned out 1.5%. Okay. 
+
+Presumably, tariffs don't affect all parts of the economy equally. Some are going to be suffering more than others, right? Yes, indeed. I mean, when you look at the, let's say, the structure of the tariffs, of course, let's say the sectors that are hit most are the ones that are also exporting a lot to the US. 
+
+And for example, I mean, if you look at who are these very trade intensive sectors, then these are in particular autos, automobile industry, machinery, some chemical segments. They are sort of the ones that are hardest hit. But what is also interesting when you talk to these large companies in the, let's say, in the framework of our ECB Corporate Telephone Survey, it seems that it is the policy uncertainty that is the key constraint. 
+
+So not so much the tariff itself, somehow companies can sort of cope with that. I mean, it's difficult, but let's say possible. But this overall uncertainty that is there about the policy stance in the US, that is something that is seen as, let's say, a big drag on, let's say, export activities. 
+
+A big drag in the sense that the consumer demand is hit, but also you put off investment decisions, you've got extra costs to deal with all the logistics. Exactly. So anything, I mean, if you think of an exporter who has to export something from the EU, from the euro area to the US, I mean, it takes a while. 
+
+So these are long term decisions, long term contracts that are made. And if you have this high policy uncertainty, you will not go into this, let's say, large investment programs that last over maybe many years if you're not sure that you can actually recuperate your investment expenses. Okay. 
+
+So this is an important point to remember, because I also want to look at the Middle East war, the Iran war. But I mean, this is a good takeaway, right? That the Iran war will hopefully end at some point. But the tariffs do not end. 
+
+Presumably, they remain at least as long as Donald Trump is president. Yes. Yes, indeed. 
+
+And as you know, I mean, on the one hand, we have this US Supreme Court ruling. And that is basically for the next 150 days. So until then, we also know, I mean, there's work to be done on that front from the US side. 
+
+But we also, we have our own agreements, no? I mean, we had an agreement that was done in, I think, in summer 2025, where we actually have this Turnberry package, where we have a 15% US tariff on most EU goods exports. And that is actually also going through the European legislative process at the moment. And so on these two fronts, so both from the US side, but also from the EU side, I mean, we will see what in the end, will be the effective tariff rate that we have to watch. 
+
+So and then I can also say, it's also a rather complicated, given that we have to go down really product by product, and which let's say tariff is sort of the one that counts for this particular product. And that is rather, I would say challenging task to keep on monitoring this. Challenging is the understatement. 
+
+Yes. So let's take a look at the war against Iran. And I should point out, we're recording this podcast several days before broadcast, and several days is a very long time at the moment in market volatility. 
+
+But one assumes that energy prices are staying high for quite a long time, regardless of what happens in the developments of the war. So we have this energy shock, it's a supply side shock. How much of a Well, I mean, I'd say it adds, again, a new layer of complexity to an already, let's say, complex situation. 
+
+The issue is that despite this geopolitical tangents, I would say we in Europe, and in the euro area, we have been actually really in a good place until then. I mean, before the war in the Middle East, the data coming in were broadly sort of confirming what we thought back in December, when we did our last forecast. Headline inflation was just below 2%. 
+
+I mean, growth was actually modestly, but I mean, we grew, but maybe not that much, but at least steadily. So in early March, I mean, this whole picture then completely changed, no. And now we have oil and gas prices that jumped sharply. 
+
+This will, of course, feed then through to what people are paying at the pump. We see that already when we go through gas stations. And that will also then feed into gas bills and also the electricity bill and so on. 
+
+So there we will see that indeed, inflation will go up. And we will see that for sure already rather soon in our readings of inflation. And at the same time, this Middle East war also raises downside risk for growth.
+
+(12:44 - 13:45)
+We have the higher energy costs. We have the greater uncertainty now. We don't know how long this war will last and how severe it will be. 
+
+And that will also weigh, of course, on consumer confidence or also confidence, let's say, more generally of firms on investment decisions and also, let's say, export oriented manufacturing sectors. You know, if you have to transport anything by the sea, I mean, it's maybe not the best moment if you have a war raging there in the Middle East. But anyways, as I said, I think before the war, we were in such a, I mean, in relatively, let's say, benign situation in terms of inflation and also this modest but steady growth that, let's say, the starting position is relatively good in comparison to other, let's say, situations that we had in the past or other crisis situations we had in the past.
+
+(13:46 - 15:45)
+We're not going to go into the monetary policy implications here because this is the job of the policy makers. But these inflation impacts that you talk about is in our macroeconomic projections, which are on the ECB's website and which were published on March the 19th at the ECB last press conference. And to produce those macroeconomic projections, it was a particularly onerous task. 
+
+The president thanked you and everybody else, all the senior economists at the ECB, all the economists at the ECB, because you worked late into the night, much later than you would normally do, correct? Yes, indeed. So de facto, when the airstrikes hit, we were basically done with our march route. So what would have normally happened is we close basically the forecast, then we start writing the report. 
+
+And in all leisure, we go through the committees with our report and then we are kind of done by the time of the governing council. This time, we basically had to reopen the whole machinery again and basically not really start from scratch because certain things were already there, like, for example, the tariffs. But then to basically feed into the projections, new assumptions on oil and gas prices. 
+
+I mean, that was basically the major task was to make sure that these higher oil and gas prices, that we are as up to date as possible in our forecast, that when we feed that in, that we get a good picture of what would happen to inflation and growth in the euro area. And what was also clear is that given the uncertainty that we had, we were also not sure about how probable is the baseline. Normally, one would say, well, the baseline is what we think is kind of the most likely scenario or the most likely path.
+
+(15:45 - 17:15)
+In this situation, it was very difficult to, let's say, to put a probability even to our baseline. And then I think in situations like that, it makes sense indeed to develop scenarios that basically assume a very different, let's say, something very different from what we have in the baseline. And this is what we, and especially also the team, has done sort of in a very short period of time. 
+
+Congratulations to you. And I recommend our listeners and our viewers to go and look at that. You don't have to be an economist. 
+
+I think it's good reading anyway, the projections. Just one final point. It's not that long since we had an energy price shock, the Russian invasion of Ukraine. 
+
+So some could say it's the same again, but is it the same again? So in many ways, it is similar. So you have, again, this supply side shock that then basically works through energy markets. And that was triggered by geopolitics, same in the Ukraine, basically. 
+
+And we've also seen in the Ukraine war that you have this quick rise in oil and gas prices, and that then feeds through to the economy. And that hits then also real incomes and could also spill through to all other kinds of prices. So that bit is sort of the same.
+
+(17:15 - 20:00)
+But what is very different is, on the one hand, that the scale and the breadth of the shock is smaller so far. So that is one thing. And in 2021-22, we had really a perfect storm because on the one hand, we were just exiting the pandemic. 
+
+So also, let's say the demand side was very different from what we have now. And we had, in particular, gas prices going through to unprecedented level because gas was basically stopped, the deliveries from Russia. And that, again, is different from what we have today. 
+
+And also, we have basically now a different, let's say, supply structure in terms of gas, much more diversified than what we had in 2022. And just coming back to this issue of the pandemic, I mean, when we first had the increase in prices in 2021, we very much thought this is the outcome of the pandemic. There was a lot of pent-up demand. 
+
+People couldn't go out, couldn't spend money. Now, the demand conditions are very different. I mean, as I said, we have modest but steady growth. 
+
+Consumption has been rather stable over the recent quarter. So in that sense, it's a different situation. I mean, and we also have a monetary policy that is now in a, let's say, in a much more, let's say, stable place than it was during the pandemic when we still had asset purchase programs, etc. 
+
+So it's a very different situation. And yeah, and inflation is now very different from what it was back then. So look, Christiana, thank you very much indeed. 
+
+But we're not quite over because, as always, we're looking for a hot tip, as we do for all of our guests. What do you have for us today? Well, I always think it's dangerous to ask economists for hot tips. You might never know what you get. 
+
+But my hot tip is maybe not so far away from, let's say, being an economist. I would like to recommend the Paul Krugman Substack. He used to be a commentator for the New York Times. 
+
+Now he's basically on Substack. And I think he produces a lot of, let's say, relevant and also very, how should I say, very readable pieces on economics, not just on the US, but also more broadly on the world economy. And this is certainly something that... It is always a good read. 
+
+It's interesting whether you agree with him or not. And not everybody does. Yes.
+
+(20:00 - 20:14)
+It's always an interesting read. Yeah. And he has a good sense of humor. 
+
+So even if you don't like maybe the content, you have something to laugh. You go for a laugh. Exactly. 
+
+All right. Christiana, thank you very much indeed. This is Christiana Nickell, who is the deputy head of our economics department.
+
+(20:15 - 20:24)
+You've been listening to Euromatters. I'm Paul Gordon. If you like what you've heard and seen today, make sure you subscribe to our podcast and keep up to date on all our materials.
+
+(20:25 - 20:49)
+We've got a lot of materials on our website. I mentioned the projections. President Christine Lagarde recently did an interview with The Economist. 
+
+So go off and look at The Economist website to check that out as well. And in the spirit of Europe, I'd like to end in Finnish today. And I will say, probably badly, once again, kulemme sinne. 
+
+And until next time, thank you very much indeed for listening.
+
+(Transcribed by TurboScribe. Go Unlimited to remove this message.)

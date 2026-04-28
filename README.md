@@ -5,6 +5,26 @@ The webapp, whose database is updated on a weekly basis, is available here: http
 
 Please refer there for further information about data sources, etc.
 
+Effective from week commencing 2026-04-21, ECB Podcasts will not be added anymore to the ECB search by tag engine.
+
+The reason for this editorial change? 
+
+As observed since early 2026, increasingly the Podcast has been over the months shifting from an institutional to a "pop culture" vibe.
+
+The purpose of the ECB search by tag engine is and has always been to ease access to communication from the ECB on political and institutional matters.
+
+Hence, including ECB Podcasts has been constantly since early 2026 declining in value added.
+
+Therefore, from the publishing release of 2026-04-27, the content will be just:
+1. Speeches
+2. Interviews
+3. ECB Blog
+4. the periodic monetary announces (not their podcast version)
+
+Eventually, also the Press Releases (that continued to collect but removed from the database search) will be reinstated.
+
+This choice as, recently, press releases shifted from routine announcements (appointments, etc) to an increase in "political" and "policy" content. 
+
 
 # Purpose
 
